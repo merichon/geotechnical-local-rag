@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# AI Assistant & IDE configs
+.claude/
+.gemini/
+.idea/
+.vscode/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Data & Environment files
+.env
+data/rag.db
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

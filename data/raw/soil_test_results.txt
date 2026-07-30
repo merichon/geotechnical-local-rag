@@ -1,0 +1,100 @@
+LABORATORY TEST RESULTS - SOIL INVESTIGATION
+Project: Multi-Story Building Foundation
+Laboratory: Istanbul Geotechnical Testing Center
+Test Date: 2024-05-20
+
+SAMPLE INFORMATION:
+Sample ID: BH-01-S3
+Depth: 5.0-6.0 meters
+Borehole: BH-01
+Description: Clay, gray-brown, medium stiff
+
+PHYSICAL PROPERTIES:
+Natural Moisture Content: 18.5%
+Dry Density: 1.68 g/cm³
+Saturated Density: 1.95 g/cm³
+Specific Gravity (Gs): 2.72
+Void Ratio (e): 0.62
+Porosity (n): 38.4%
+
+PARTICLE SIZE DISTRIBUTION:
+Gravel (>4.75mm): 0%
+Sand (4.75mm-0.075mm): 18%
+Silt (0.075-0.005mm): 38%
+Clay (<0.005mm): 44%
+
+ATTERBERG LIMITS:
+Liquid Limit (LL): 52%
+Plastic Limit (PL): 22%
+Plasticity Index (PI): 30%
+Shrinkage Limit (SL): 10%
+Classification: CL (Clay with moderate to high plasticity)
+
+CONSOLIDATION TEST (1D Oedometer):
+Initial Void Ratio (e0): 0.62
+Compression Index (Cc): 0.18
+Recompression Index (Cr): 0.04
+Coefficient of Consolidation (Cv): 8.2 × 10⁻⁴ cm²/sec
+Pre-consolidation Pressure: 180 kPa
+
+SHEAR STRENGTH TESTS:
+Triaxial Test (CU condition):
+Confining Pressure: 100 kPa
+Cohesion (c): 25 kPa
+Angle of Friction (φ): 22°
+
+Direct Shear Test:
+c = 28 kPa
+φ = 23°
+
+PERMEABILITY:
+Coefficient of Permeability (k): 3.5 × 10⁻⁷ cm/sec
+Classification: Low permeability (clay)
+
+ENGINEERING SUMMARY:
+This clay sample shows medium stiff consistency with moderate plasticity.
+The material is suitable for foundation support with appropriate design.
+Expected consolidation settlement is within acceptable limits for foundation design.
+Recommended bearing capacity: 150 kPa (with SF=3.0).
+
+---
+
+SAMPLE INFORMATION:
+Sample ID: BH-01-S1
+Depth: 2.0-3.0 meters
+Borehole: BH-01
+Description: Sandy loam, yellowish brown
+
+PHYSICAL PROPERTIES:
+Natural Moisture Content: 12.3%
+Dry Density: 1.82 g/cm³
+Saturated Density: 2.05 g/cm³
+Specific Gravity (Gs): 2.68
+Void Ratio (e): 0.47
+Porosity (n): 32.0%
+
+PARTICLE SIZE DISTRIBUTION:
+Sand: 72%
+Silt: 20%
+Clay: 8%
+Classification: SM (Sand with silt, medium dense)
+
+ATTERBERG LIMITS:
+Liquid Limit (LL): 28%
+Plastic Limit (PL): 18%
+Plasticity Index (PI): 10%
+Classification: Low to medium plasticity sand
+
+SHEAR STRENGTH:
+Angle of Friction (φ): 32°
+Cohesion (c): 8 kPa (due to silt content)
+
+PERMEABILITY:
+Coefficient of Permeability (k): 2.1 × 10⁻⁴ cm/sec
+Classification: Moderate permeability
+
+ENGINEERING SUMMARY:
+This sandy loam is relatively dense with moderate silt content.
+Good drainage characteristics.
+Suitable for foundation bearing, but consider erosion near water table.
+Recommended bearing capacity: 250 kPa (with SF=3.0).

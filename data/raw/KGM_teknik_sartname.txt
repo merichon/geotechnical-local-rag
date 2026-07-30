@@ -1,0 +1,1357 @@
+2019
+KARAYOLARI KESİN ve ÖN
+PROJELERİ MÜHENDİSLİK
+HİZME TLERİ TEKNİK
+ŞARTNAMESİ
+
+KARAYOLLARI GENEL MÜDÜRLÜĞÜ
+2019
+KARAYOLARI KESİN ve ÖN
+PROJELERİ MÜ HENDİSLİK
+HİZMETLERİ
+TEKNİK ŞA RTNAMESİ
+ Her hakkı saklıdır. Bu Teknik Şartnamenin bir kısmı veya tamamı Karayolları Genel Müdürlüğünün yazılı
+izni olmadan çoğaltılamaz. Bilgi erişim sistemine yüklenemez veya herhangi bir başka şekilde bir başka yere
+aktarılamaz.
+PROJE TEKNİK ŞARTNAMESİ
+
+KORİDOR ETÜDÜ YAPILMASI
+GİRİŞ
+Koridor Etüdü yapılması teknik şartnamesi Koridor etüdü yapılması ile ilgili mühendislik
+hizmetlerine ilişkin esasları belirlemekte olup “Koridor Etüdü Yapılması Teknik Şartnamesi “
+diye adlandırılacaktır.
+Koridor Etüdü, planlanan bir yolun başlangıç ve bitim bölgelerini kapsayan, takriben 10
+km genişliğindeki bir alan içerisinde yapılacaktır. Yaklaşık geçki veya güzergah bu koridor
+içerisinde, 1/25.000 ölçekli güncel sayısal haritalar üzerinde idarenin görüşleri alınarak alternatif
+güzergahlar hazırlanacaktır. Yol sınıfı dikkate alınarak bu güzergahlara ait 1/25.000 ölçekli plan
+ve 1/25.000-1/2500 ölçekli profiller hazırlanarak, kilometrajı gösterilecektir.
+Ayrıca;
+- Uygulanacak yol enkesitleri, kazı dolgu hacimleri, öngörülen jeolojik önlemler
+belirtilmelidir. (raporda belirtilmelidir)
+-Tünel yerleri ve uzunlukları, Köprü veya viyadük yerleri ve uzunlukları
+-Büyük sanat yapılarının boyutları, yerleri ile yaklaşık uzunlukları
+-Kavşak yerleri, imarlı kesimler ve mücavir alan sınırları, sit alanları, diğer kurumlara
+ait projeler, barajlar,vs...
+1/25.000 ölçekli planda belirtilmiş olmalıdır.
+Koridor etüdü yapılırken;
+• Belirlenen Ulaşım Fonksiyonunu Karşılayabilme,
+• Zemin elverişlilik durumu
+• Yapım maliyeti
+• Taşıt İşletme giderleri
+• Bakım ve işletim giderleri
+• Kamulaştırma bedelleri
+• Doğal, sosyo ekonomik ve tarihi çevreye etkileri
+• Stratejik önem ve değerler Dikkate alınmalıdır.
+Bu değerlendirmeler sonucunda birden fazla koridor belirlenecek olup bu güzergahlar
+karşılaştırılarak en uygun olan geçki bulunacaktır. Yukarıda belirtilen hususlar açısından alternatif
+olma özelliği olmayan koridorlardan genel bahsedilmesi diğer alternatif koridorların daha iyi
+değerlendirilmesi açısından uygun olacaktır.
+KORİDOR ETÜDÜ RAPORU
+Belirlenen seçeneklerin karşılaştırılması ve seçimlerin kolaylaştırılmasını sağlayacak
+ayrıntıda, yapım maliyetini, işletme giderleri gibi ana maliyet unsurlarının belirlenmesi, bakım,
+işletme, tarım arazisi kullanımı, kamulaştırma, mülkiyete esas bilgiler ve çevre etkileri ile ilgili
+(Büyük ölçekte oluşacak heyelan, kayma ve zemin hareketlerine sebep olmayacak veya
+önlenmeleri veya yenilenmeleri çok büyük fiziksel ve parasal güçlüğe yol açacak problemler
+doğurmayacak şekilde belirlenen) kritik yerler ve hususlarla ilgili düşünce ve bilgilerle birlikte,
+yüklenicinin tavsiye ve uygun bulduğu çözümleri ve seçeneği de ortaya koyacak şekilde
+raporlamasını ve idareye sunulmasını kapsayacaktır. Rapor, sunumu açıklayıcı ve araziyi tanıtıcı,
+harita, şekil ve fotoğraf ile desteklenecektir.
+PROJE TEKNİK Ş ARTNAMESİ 1/ 64
+
+ZEMİN ELVERİŞLİLİK ETÜDÜ
+İlgili teknik Şartnamelerinde bahsedilen şekilde Koridor Etüdü Yapılması : Zemin
+Elverişlilik Etüdleri yapılacaktır.
+GEÇKİ ALTERNATİFLERİNİN İNCELENMESİ VE UYGUN GEÇKİNİN
+ONAYLANMASI
+• İdarenin raporundaki sonuç ve yazılı talimatlara uygun olarak yüklenici, 1/25000 ölçekli harita
+üzerindeki çalışmalarını yapar, varsa geçki alternatiflerini karşılaştırıp, gerek görüyorsa Bölge
+ve Genel Müdürlükte yapılacak görüşme ve toplantılar ile en uygun geçkiyi belirleyecek ve
+ilk hazırlanan kapsam ve formda plan-profil paftalarını raporu ile birlikte İdareye sunacaktır.
+İdare sunulan geçki seçeneklerini, gerekli göreceği bir şekilde incelemeye tabi tutacaktır.
+İnceleme sonucunda belirlenen geçki onaylanarak diğer çalışmaların yürütülmesi için talimat
+yazısı hazırlanarak projeciye teslim edilecektir.
+İDAREYE TESLİM EDİLECEK BELGELER VE DOKÜMANLAR
+Proje yatay hattı işli renkli harita (1/25.000)
+Proje düşey hattının çizimi (1/25.000)
+Uydu görüntüsü dosyası (.kml, .kmz, ...vb)
+Koridor etüdü Raporu
+Sayısal harita, yüzey bilgileri, proje kapsamında üretilen her türlü dokümanın sayısal ortamda
+verilmesi (2 Ad. Genel Müd., 2 Ad. Bölge Müd.)
+HARİTA ÜRETİLMESİ
+Harita üretiminde “Karayolları Yersel ve Fotogrametrik Harita Mühendislik Hizmetlerine
+Ait Teknik Şartname” esasları uygulanmaktadır.
+Bu esaslar doğrultusunda 1 Km.'lik koridor (koridor genişliği 200m.) 20 Hektara karşılık
+gelmektedir.
+PROJE TEKNİK Ş ARTNAMESİ 2/ 64
+
+PROJE YATAY DÜŞEY HATTININ BELİRLENMESİ VE
+RAPORLARININ HAZIRLANMASI
+Bu teknik şartname, 1/25.000 ölçekli harita üzerinde koridoru belirlenmiş ve bu koridora
+göre 1/1000 ölçekli haritaları alınmış proje güzergahlarındaki yatay ve düşey hat ile bunlara ait
+raporların hazırlanmasını kapsamakta olup “Proje Yatay ve Düşey Hattının Çizilmesi ve
+Raporlarının Hazırlanması Teknik Şartnamesi” diye adlandırılacaktır.
+GÜZERGAH ÇALIŞMALARI
+Onaylanmış vaziyet plandaki eksen dikkate alınarak 1/1000 ölçeğinde yatay, 1/100-
+1/1000 ölçeğinde düşey hattı kapsayan proje güzergahı belirlenecektir.
+Yatay ve düşey hat paftaları en fazla 15'er metrelik parçalar halinde ve katlanmış olarak
+hazırlanacaktır.
+Güzergah çalışmalarında;
+• Geometrik standartları,
+• Toprak işleri, (Kübaj, brükner)
+• Tünel, köprü, viyadük, sanat yapıları, tarımsal alt ve üst geçitler,
+• Yol drenajı,
+• Tali yol, kavşak yerleri ve park alanları,
+• Yol peyzaj, estetiği ve ÇED ile ilişkileri,
+• Arazi kullanımı, kamulaştırma, mülkiyet durumları ve imar planları ile uyumu,
+• Bakım ve işletim şartları,
+• Trafik güvenliği,
+• Yolun geleceğe yönelik planlaması,
+• Yapım maliyetleri ve işletim giderleri
+• Geoteknik önlem gereksinimleri vb. hususlar göz önünde bulundurulmalıdır.
+Yukarıda değinilen hususlar ayrı ayrı birim fiyatların konusu olmasına rağmen birlikte
+değerlendirilerek proje yatay düşey hattı tespit edilir.
+YATAY HAT
+Daha önceden belirlenmiş ise; fonksiyon belirleme, ulaşım ve trafik etüdü, koridor etüd
+çalışmaları ile ortaya konulmuş olan verilere göre veya böyle bir çalışma yapılmamış ise, idarenin
+temin edeceği bilgilerle birlikte, veri (yol verileri cetveli) yada yazılı talimatlar doğrultusunda
+yolun geometrik standartları, şerit sayısı, enkesit tipi, dever değerleri, kavşak ve bağlantılarının
+yerleri ile park alanları tipleri belirlenecektir. Bu hususlar dikkate alınarak tip enkesit paftası
+hazırlanacak ve proje yatay-düşey hattıyla birlikte onaya sunulacaktır.
+Geçkiyi veya alternatif olarak ele alınmaya değer seçenekleri oluşturmak için, güzergah
+çalışmaları kısmında açıklanan hususlara uygun olarak, bilgisayar ortamında sayısal arazi modeli
+oluşturulmuş 1/1000 ölçeğinde topoğrafik haritalar üzerinde çalışılacaktır.
+PROJE TEKNİK Ş ARTNAMESİ 3/ 64
+
+Bu çalışmalar yeterli hassasiyet ve ayrıntıda bir jeolojik ve jeoteknik veri tabanı ile
+desteklenmelidir.
+Sayısal arazi modelinden elde edilecek geçkinin veya alternatif seçeneklerin gözlemsel
+olarak belirlenecek yarma şevlerine göre şevli sürekli planları 1/1000 ölçekte idareye sunulacaktır.
+İnceleme ve yorumlamayı kolaylaştırmak için kritik kesimler, büyük sanat yapıları (tünel, köprü,
+viyadük vb.) ve önemli jeoteknik önlemlerin yer ve boyutları ile kavsak ve benzeri bağlantı yolları
+ile yan yollar çizgisel olarak gösterilecektir.
+YATAY HAT RAPORU
+Belirlenen seçeneklerin karşılaştırılması ve seçimlerin kolaylaştırılmasını sağlayacak
+ayrıntıda aşağıda belirtilen hususları kapsayacaktır.
+1. Proje güzergahının, yol ağındaki konumu, hizmet edeceği kesimdeki ekonomik ve
+sosyal katkıları genel hatlarıyla anlatılmalı.
+2. Proje kriterleri ve mevcut trafik hakkında bilgi verilmeli.
+3. Güzergah çalışması sırasında özellik arz eden yerleşim alanları, yapılar, mezarlık,
+tarımsal alanlar gibi belirleyici unsurlar açıklanmalı.
+4. Güzergah üzerindeki mevcut kamulaştırma ve imar durumları ile proje kapsamında
+ihtiyaç görülen ek kamulaştırma ve imar tadilat ihtiyaçları açıklanmalı.
+5. Mevcut köprülerin durumu, yenilenmesi ve gerekçeleri Sanat Yapıları Proje Şubesi
+Müdürlüğünün görüşü alınarak belirtilmeli.
+6. Güzergah genelindeki zemin incelenmesinin yanı sıra, özellikle yüksek yarma ve
+dolgu kesimlerinde zemin yapısı ve yapılacak imalatta karşılaşılabilecek sorunlar ve
+çözümler hakkında bilgi verilmeli.
+7. İhaleli işlerde proje güzergahı ile ilgili müteahhit firmanın teklifi ile kontrollüğün
+görüşleri doğrultusunda yapılan değişiklikler, nedenleri ile birlikte belirtilmeli.
+8. Güzergah üzerinde dolgu, toprakarme, viyadük, tünel, yarma gibi birbirine alternatif
+teşkil edecek kesimlerin olması halinde ekonomik ve sosyal içerikli karşılaştırma
+yapılmak suretiyle teklif edilen yapının sebepleri yazılmalı.
+9. Güzergahın dere yada denize girilen kesimlerinde tahkimat ve derivasyon gerekip
+gerekmediği araştırılmalı, ihtiyaç görülmesi halinde DSİ ve DLH Gn.Md.' lüklerinin
+daha önce imalatları varsa incelenerek bilgi alınmalı ve rapora dahil edilmeli.
+10. Daha sonra detaylandırılmak ve onay alınmak üzere düşünülen kavşak yerleri
+hakkında kısa bilgi verilmeli.
+11. Güzergahın geçtiği alanda bulunan özel hizmet yapıları hakkında bilgi verilmeli
+(ENH, Demiryolu, Petrol boru hattı gibi.)
+12. Güzergah üzerinde özellik arz eden (kritik kesimler vb.) yerlerin fotoğrafları
+eklenmeli.
+13. Mevcut bir güzergah var ise bunun durumu (kaplama ve standart) anlatılmalı.
+14. Önerilen güzergahın standartları anlatılmalı.
+15. Raporda bölge ve firma yetkililerinin ve incelemeye katılan kişilerin onayları
+bulunmalı.
+16. Proje yatay hattının sayısal ortamda enkesitleri ve uydu görüntüleri sayısal ortamda
+ortamda teslim edilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 4/ 64
+
+YATAY HATTIN İNCELENMESİ
+İdare, yüklenicinin raporlayıp sunduğu geçki (veya varsa alternatifleri) ile ilgili olarak
+gerekli gördüğü brifing, simülasyon ve benzeri açıklamaları talep edebilir. Gerekli görüyor ise
+uygun bulacağı ve projecinin katılacağı bir heyetle yerinde inceleme yapar. Yerinde incelemede
+projeci, oluşturduğu geçkileri idareye gösterir. İdarenin gerekli gördüğü kesimlerde eksen araziye
+yaklaşık 100 metre aralıkla çakılarak beyaz renkte olacak şekilde işaretlenir. Yüklenici önerdiği
+ve raporladığı alternatifli çözümleri ve gerekçelerini açıklar. Yüklenici proje müdürü ve diğer
+teknik personel katılımı ile gerekli açıklamaları yapmak zorundadır.
+İdarenin, yapılmışsa arazi çalışmalarını da kapsayacak şekilde gerçekleştireceği bu
+incelemeler sonucunda, bir sonraki aşamaya girdi oluşturmak üzere, sunulup incelenmiş olan
+YATAY HAT ile ilgili düşünceler ve varsa faydalı görülen ilave etüt ve araştırma önerileri rapor
+ile belirlenir. Bu rapor, incelenen yatay hat kesiminde, başlangıçtan sona kadar, en uygun geçkiyi
+belirlemeye yönelik olarak kesim kesim sunulan geçki seçeneklerinden biri veya diğerini uygun
+gören veya bunların birisinden yeterli şekilde tanımlanmış olan farklı yeni bir hat yada hat
+seçeneklerini tavsiye eden veya yazılı talimat veren mahiyettedir. İnceleme İdarenin uygun
+göreceği bir tutanak, yazılı talimat yada başka bir formda hazırlanarak projeciye teslim edilmesi
+ile tamamlanmış olur.
+UYGUN YATAY HATTIN BELİRLENMESİ, YERİNDE İNCELENMESİ VE
+ONAYLANMASI
+• İdarenin rapor veya yazısındaki talimatlara uygun olarak projeci önceki çalışmalara
+benzer şekilde çalışmalarını yapar, varsa yatay hat alternatiflerini karşılaştırıp gerek
+görüyorsa Bölge ve Genel Müdürlükte yapılacak görüşme ve toplantılarda en uygun
+yatay hattı belirleyerek önceki sunulan kapsam ve formda yatay hat sürekli planını
+raporu ile birlikte İdareye sunacaktır.
+• İdareye sunulan proje yatay ve düşey hattı yüklenici firmanın deneyimli proje teknik
+elemanı tarafından idareye anlatılacak, daha sonra incelenerek onaylanacaktır.
+YATAY HAT AŞAĞIDA SIRALANAN HUSUSLARI VE GÖSTERİMLERİ
+İÇERECEKTİR.
+• Yatay kurblar proje hızına göre seçilmelidir.
+• Maksimum deverler proje hızı, kurb yarıçapı, kavşak yerleri, şehir geçişleri, iklim koşulları ve
+topoğrafik özellikler dikkate alınarak standartlara uygun olarak tespit edilmelidir.
+Uygulanacak dever değerleri Karayolu Tasarım El Kitabı'ndaki kriterler göre hesap edilecektir.
+• Yatay kurblar some bilgileri ile tanımlanacaktır. Some bilgileri geçiş eğrisi kullanılmayan
+kurblarda yarıçap ( R ) , sapma açısı ( Grad cinsinden ) , teğet uzunluğu ( T ) , Kurb Boyu( L )
+uygulanan dever ( S ) , Şerit Genişleme miktarı ( Gn ), rakordman bilgileri(Lr,Lt,La), some
+koordinatları (X=Kuzey,Y=Doğu) ile tanımlanacaktır. Geçiş eğrisi kullanılan kurblarda ise
+yukarıdaki bilgilere klotoid ile ilgili değerler ilave edilecektir. (örnek eklerde mevcuttur)
+• Minimum aliynman uzunlukları ve küçük sapma açıları dikkate alınmalıdır.
+• Proje başı ve sonunda kot ve koordinat değerleri yazılacaktır.
+• Bütün yollarda geçiş elemanı olarak KLOTOİD kullanılacaktır.
+• Zorunlu hallerde ve mevcut yol dışında ortalama 2500 metreden daha uzun aliyman
+kullanılmamasına dikkat edilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 5/ 64
+
+DÜŞEY HAT:
+Koridor Etüdü yapılarak onaylanan güzergah veya Koridor Etüdü yapılmamışsa
+çalışılacak güzergah ile ilgili gözlemsel jeolojik ve jeoteknik veriler doğrultusunda 1/100- 1/1000
+ölçekli düşey hat çalışmaları yapılacaktır. Düşey hat çalışmaları yatay hat ile birlikte hazırlanarak
+idareye sunulmalıdır.
+DÜŞEY HAT AŞAĞIDA SIRALANAN HUSUSLARA GÖRE BELİRLENEREK
+TANIMLAMADA BELİRTİLEN GÖSTERİMLERİ İÇERECEKTİR.
+• Düşey aliymanlar arasına düşey kurblar yerleştirilerek, yataydaki izdüşümlerinin uzunlukları
+(ŞK ) değerleri ile ifade edilecektir.
+• Düşey kurb somesinin kilometresi (KM), kotu (KOT), Düşey kurb uzunluğu (ŞK) değeri, duruş
+görüş ve geçiş görüş mesafesini sağlayan K katsayısı DÜŞEY KURB ELEMANLARI olarak
+gösterilecektir.
+• Düşey kurb uzunluğu, duruş görüş mesafesine ve geçiş görüş mesafesine uygun olarak
+seçilecektir.
+• Düşey kurb ile yatay kurb kombinizasyonu sağlanacaktır.
+• Düşey hat, yolun en ekonomik ve emniyetli olmasını mümkün kılacak şekilde tesbit
+edilmelidir.
+• Düşey hat, tesbitinde, yatay kurblarda olduğu gibi karayolunun tüm mühendislik hizmetlerine
+olan etkisi dikkate alınacak ve karayolları normlarına uygunluğu sağlanacaktır. (Kar, don,
+bakım, estetik, klas, toprak hareketleri, dayanma yapıları, topoğrafya, geometrik standartlar,
+emniyet,...vs. gibi)
+• Düşey hat eğim hesaplarında eğim yüzde cinsinden ifade edilecektir. Eğimler virgülden sonra
+üç rakam alınacaktır.( +%5.241 , -%3.202) . Some kilometreleri küsüratsız olacaktır.
+• Düşey hat tesbit edilirken enine kesitler ve sanat yapıları ile birlikte mütalaa edilecek ve sanat
+yapılarının durumları da enkesitlerde gözönünde bulundurulacaktır.
+• Trafik kapasitesi dikkate alınarak, yüksek eğimli kesimlere tırmanma şeridi konulacaktır.
+Bunun için İdare' den yazılı olur alınacaktır.
+• Hidrolik sanat yapıları, alt ve üstgeçitler, köprü ve tüneller, istinat ve iksa duvarları ve diğer
+jeoteknik önlemler profillerde uygun sembol ve gösterimlerle yer alacaktır.
+• Profliller alt kısımda sırası ile Kırmızı Kot, Siyah Kot, Kilometre, Yatay Geometri, Düşey
+Geometri ve Dever Bandı bilgileri olacak şekilde hazırlanacaktır.
+• Profillerin paftalarda ayrılan genişliğe sığmaması durumunda kot taşıma çizgisi yapılacaktır.
+• Düşey hat çizilirken mevcut yolun ekseni de profil üzerinde gösterilecektir.
+DÜŞEY HATTIN İNCELENMESİ
+Düşey hat ile birlikte idareye verilen rapor ekinde, tasarlanan geçkinin uygulanabilirliği
+ile yaklaşık yarma-dolgu şevlerinin sınırlarını , sanat yapılarının yerleştirilmesini görebilmek ve
+ön toprak hacmi hesabı yapabilmek amacıyla sayısal arazi modelinden yolun gabarisi
+yerleştirilmiş enkesitler çıkarılacak ve CD ortamında yaklaşık kübaj bilgisi ile İdarece yapılacak
+inceleme sonucunda düşey hat gerekli yerlerde revize edilebilecektir.
+Bu incelemeler sırasında, sunulan ve raporlanan seçenekler ve çözümlerden farklı
+önerileri var ise, projeci bu önerilerdeki çalışmaları da yürütecektir.
+PROJE TEKNİK Ş ARTNAMESİ 6/ 64
+
+Düşey hattın tespit ve çiziminden sonra, zeminde, hat üzerinden hidrolik amaçlı profil
+tetkiki yapılacaktır. Profil tetkikinde siyah kotların zemine uygunluğu ile küçük sanat yapılarının
+kilometreleri, ebatları ve adetleri ile yarma ve dolguların yapılabilirliği, estetiği ve çevreye uyumu
+kontrol edilecektir.
+Düşey hat yatay hat ile birlikte sunulması nedeniyle, onayında yatay hattaki aynı
+prosedüre uyulacaktır.
+HİDROLİK VE HİDROLOJİK ETÜTLERİN YAPILMASI GİRİŞ
+İnşası yapılacak yol yapısı ile, tabii seyir ve akımları kesilen mecra, dere ve akarsuları n
+bu seyir ve akımlarını uygun şekilde devam ettirmek, mücavir alanlardan yola gelecek her türlü
+suyu, yolun işletim süresi boyunca yerine getireceği fonksiyonunu zedelemeyecek şekilde
+toplamak, taşımak, kanalize ve deşarj etmek için gerekli sanat yapısı derivasyon ve diğer
+elemanların tip ve debilerinin belirlenmesidir.
+HİDROLİK VE HİDROLOJİK ETÜTLERİN YAPILMASINDA DİKKAT
+EDİLECEK HUSUSLAR
+1. Yatay hat çalışmasına göre 1/25000 veya 1/100000 ölçekli haritalar üzerinde havzalar tespit
+edilip hidrolojik hesaplar yapılacaktır. Havza Planı üzerinde akış mesafeleri, akış kotları,
+menfez km'leri ve yağış alanları yazılacaktır. Yağış havza planları renkli olarak
+hazırlanacaktır.
+2. Feyezan debisi hesaplarında, alanları 10-15 km2 nin altında olan havzalar için Rasyonel Metot
+kullanılacaktır.
+3. Feyezan debisi hesaplarında, alanları 10-15 km2 nin üstünde olan havzalar için Sentetik Birim
+Hidrograf veya uygun olan benzeri metodlar kullanılacaktır.
+4. Debi hesaplarında kullanılacak yağış değerleri en son yağış ölçümlerinden alınacaktır.
+5. Çok büyük havzaların ve akarsuların debilerinin hesaplanmasında DSİ ve diğer kurumlarca
+gerçekleştirilmiş doğrudan feyezan debisi ölçümleri esas alınacaktır.
+6. Ancak yapı mahallinin topoğrafyası, mevcut köprülerin açıklık ve yükseklikleri ile geçmiş
+yıllardaki feyezanlarda sergilemiş oldukları performans ve akarsu yatağında tespit edilecek en
+yüksek su seviyeleri esas alınacaktır.
+7. Proje düşey hattının tespit çalışmalarında kullanmak için; sanat yapılarının hidrolik boyutları
+tespit edilecektir.
+8. Boyutlandırma; kabarma, kritik hız, normal hız, kritik derinlik ve normal derinliğe göre
+yapılacaktır.
+9. Hesaplarda dere yatağındaki baz akımlar ve gelecek süprüntü malzemesi dikkate alınacaktır.
+10. Uygulama Projesindeki değişikliklere göre hidrolik-hidrolojik etütler revize edilecektir.
+11. Mevcut sanat yapılarının arazide boyutları tespit edilecek . Bu menfezlerin menba ve mansap
+tarafından ayrı ayrı renkli resimleri çekilecektir. ( CD ortamında)
+PROJE TEKNİK Ş ARTNAMESİ 7/ 64
+
+İDAREYE VERİLECEK PAFTALAR
+1. Güzergahın; 1/25 000 veya 1/100 000 ölçekli haritaya işlenmiş bütün sanat yapılarının
+kilometreleri ile su toplanma havzaları ve dere yatakları belirlenmiş renkli kopyası.
+2. KGM Standartlarına uygun olarak, plan-profil paftalarına işlenmiş sanat yapılarının gösterimi
+3. Hidrolojik ve hidrolik hesap kopyaları
+4. Kilometre sırasına uygun olarak, bütün sanat yapılarının cinslerini bildirir liste
+5. Küçük sanat yapılarında standart menfez kullanılması durumunda hazırlanan en kesit çizimleri
+ve metraj dosyası
+6. Yapılan çalışmalara ait 2 adet CD ( Birisi Bölge Müdürlüğü, Birisi Genel Müdürlük için)
+RAPOR
+1. Hidrolojik ve Hidrolik Etüt ve hesapların topografyaya göre yapılma esaslarını içerecektir.
+2. 10 yıl frekanslı debinin kabarma kotu, menfez yüksekliğini aşmayacaktır.
+3. 100 yıl frekanslı debinin kabarma kotu, dolgu yüksekliğini veya menfez yüksekliğinin üç
+katını aşmayacaktır. (Yerleşim birimlerinde Menfez Yüksekliğini aşmayacaktır.).
+4. Akımın normal derinliği hava payları dikkate alınacak ve hava payı ile normal derinlik toplamı
+menfez yüksekliğini geçmeyecektir.
+5. Her drenaj alanı için tek tek hesap yapılacaktır.(0,100 km2'den büyük alanlarda)
+6. Kullanılan yağış eğrisi, abak ve yardımcı kaynaklar belirtilecektir. Gerekli görülenler hesap
+dosyasına konacaktır.
+7. Drenaj alanı olmayan ya da küçük olan alanlar için drenaj amaçlı menfezler konulacaktır. Bu
+menfezlere ait bir hesap sayfası olacak ve burada menfezin boyutlarının yanında hangi amaçla
+konulduğu belirtilecektir.
+8. Köprülerde 500 veya 1000 yıllık debiler dikkate alınacaktır.(boyutlandırma da hava payı
+dikkate alınmaz)
+KAVŞAK PROJELERİNİN HAZIRLANMASI
+KAVŞAK PROJELERİNİN YAPILMASI
+Güzergah boyunca kavş ak gerektiren yerlerin tespitlerinin yapı larak 1/25000 ölçekli
+harita üzerinde yerleri işaretlenerek bir raporla birlikte İdare'nin onayına sunulur. Onay
+aşamasından sonra idarenin önerileri doğrultusunda her kavşak için (alternatifli olma ihtimali var
+ise) alternatif planlar hazırlanır. Eğer bir kavşak bir güzergahın proje mühendisilik hizmetleri
+işinin dışında münferit olarak projelendirilecek ise öneri kavşak yeri ile ilgili veriler toplanarak
+İdareye sunulur. İdare kavşağın hemzeminmi, farklı seviyelimi yapılacağına karar verir. Farklı
+seviyeli kavşak yapılması kararı ilgili birimlerce yapılacak inceleme sonucunda karar verilir.
+Proje amaç ve prensipleri doğ rultusunda kavş ak yer seçiminde ihtiyaçlarla birlikte, proje
+hızı yatay ve düşey geometri, görüş mesafesi, kavşak giriş-çıkış kolları, arazi kullanımı, trafik
+güvenliği, kamulaştırma, imar planları vb. dikkate alınır.
+PROJE TEKNİK Ş ARTNAMESİ 8/ 64
+
+KAVŞAK PROJELENDİRMESİNDE GÖZ ÖNÜNDE BULUNDURULACAK BİLGİLER
+Bu bilgilerin bir çoğu geçki alternatifleri ile yatay ve düşey hattın belirlenmesinde de göz
+önünde bulundurulması gerekli hususlar olup, kavşaklar için ayrı değerlendirmenin
+yapılmasını gerektiren durumlarda bulunmaktadır.
+ Kavşağı etkileyen çevre yollardaki (YOGT) olarak trafik sayımları. Varsa KGM'
+den veya belediyesinden, yoksa ihtiyaca göre özel sayım yapılır.
+ Kavşak kollarında dönüş trafiklerini kapsayacak şekilde taşıt sınıflarına göre
+(otomobil, otobüs, kamyon, treyler, gerektiğinde traktör vb.) trafik sayımlarının
+yapılması ve buna ait sonuçların miktar ve % olarak verilmesi.
+ Trafik tahminleri (KGM, Kalkınma Bakanlığı)
+ Kavşak civarındaki diğer kavşaklar hakkında bilgiler.
+ Kavşakların biçimi (Kontrol sistemi)
+ Kavşakların kapasite analizleri
+ Yağış süreleri ve yıllık periyotlarla ilgili bilgiler
+ Yağış miktarları, don süresi
+ Kavşak alanı içindeki altyapı tesislerinin durumları(kanalisazyon, su, elektirik vb.)
+ Raylı sistemler hakkında bilgiler (gelişme durumları ve gabarileri.)
+ Tescil edilerek korumaya alınmış yapı ve alanlar.
+ Yapılar (kat adetleri, eskilik dereceleri, kamulaştırmaya esas olacak parasal
+değerleri
+ Kavşak civarındaki mevcut kamulaştırma sınırları
+ Kavşak civarındaki bitki örtüsü.(korunması gereken doğal sit alanları)
+ Kavşak alanı ile ilgili jeolojik-jeoteknik çalışmalar.(farklı seviyeli kavşaklar için)
+ “Karayolu Kenarında Yapılacak ve Açılacak Tesisler hakkında Yönetmelik’e
+uygun olacaktır.
+KAVŞAK ALTERNATİFLERİNİN YAPILMASI
+Bir kavşağın projelendirilmesine karar verildikten sonra her bir kavşak için idare
+tarafından gerekli görülen alternatifler hazırlanır. Hemzemin kavşağın alternatifleri içinde farklı
+seviyeli kavşak çözümü, farklı seviyeli kavşak için hemzemin kavşak çözümü alternatif olarak
+önerilemez. Ancak İdare bazı kriterleri göz önünde bulundurarak ( topoğrafik yapı vb. ) bu
+çözümleri birlikte isteyebilir.
+Değişik kavşak tiplerini içeren alternatif çalışmalar.
+a) Kavşak alternatif planlarının hazırlanması (1/1000 veya 1/500 ölçekli), enkesit
+tipleri ve ana yol, tali yol, kol düşey hat paftalarının hazırlanması.(enkesit tipleri
+1/100, düşey hat 1/100-1/1000)
+b) Kritik kesimler (heyelan, imar sınırı, yüksek yarma-dolgu vb.) için 15 m.
+aralıklarla enkesitlerin gabari ile birlikte hazırlanması.
+Kavşak alternatiflerinin fonksiyon, emniyet ve ekonomik yönden mukayeseleri.
+a) Her tipin ayrı ayrı kapasite analizleri
+b) Tahmini kamulaştırma ve yapım maliyetleri
+c) Güvenlik dereceleri
+d) Yapım güçlükleri ve seçim nedenleri
+PROJE TEKNİK Ş ARTNAMESİ 9/ 64
+
+Alternatiflerin yerinde tetkiki yapılarak, etüt proje tarafından uygun görülen alternatif
+onaylanmadan önce trafik güvenliği yönünden ilgili birim tarafından incelenip, onaylanır.
+Tam erişme kontrollü otoyollarda para toplama alanları dikkate alınarak kavşak tipi
+belirlenecektir.
+Kavşak alternatifleri ile birlikte kavşak seçim raporu hazırlanarak İdare'ye verilecektir.
+KAVŞAK TİP SEÇİMİNİN YAPILMASI
+İdare yüklenicinin hazırlamış olduğu kavşak alternatiflerini ve raporunu inceler. Sonucu
+bir yazı veya rapor ile yükleniciye bildirir. Bu yazı veya rapor içeriğinde en uygun olan alternatif
+kavşak planı belirlenip, var ise İdare'nin uygun bulduğu alternatif kavşak planı ile ilgili önerisi
+veya kesin projede yapılacak iş kalemlerini belirtir.
+KAVŞAK KESİN PROJELERİNİN YAPILMASI
+Kavşak alternatif planlarının yapılması çalışmalarından sonra ve gerekli değişiklikler
+yapılarak, en uygun olduğu belirlenen kavşak alternatif planının onaylanarak yazı ile birlikte
+yükleniciye verilmesini takip eden çalışma KAVŞAK KESİN PROJELERİNİN YAPILMASI
+aşamasıdır.
+KAVŞAK KESİN PROJELERİNDEKİ İŞ KALEMLERİ
+1) Baş pafta
+2) Tip ve detay paftalar
+3) Aplikasyon planı paftası
+4) Boykesit paftaları
+5) Enkesit paftaları (Sayısal ortamda)
+6) Şevli plan paftası
+7) Genel Yerleşim Plan Paftası
+8) Kotlu plan paftası
+9) Burun uçları detay paftası (Farklı Seviyeli Kavşaklarda)
+10) Kübaj hesaplarının yapılması
+11) Toprak işleri, üstyapı, reglaj, bordür vb. metrajının hazırlanması
+12) Drenaj Paftalarının hazırlanması
+13) Proje sonu raporunun hazırlanması.
+Ayrı birim fiyatlara konu olmasına rağmen istenmesi durumunda aşağıdaki iş kalemleri
+kendi teknik şartnamelerindeki birim fiyat tariflerine göre yapılacaktır:
+1- Trafik Projelerinin Yapılması
+a) Kavşak trafik işaretleme projesi taslak paftasının hazırlanması ve sunulması b)
+Kavşak trafik işaretleme proje paftasının hazırlanması ve sunulması
+c) Bilgi levhası imalat detay proje paftalarının hazırlanması ve sunulması
+d) Trafik projesi özeti ve metrajının hazırlanması
+2- Peyzaj ve Sulama Projelerinin ve Metrajının Hazırlanması
+3- Aydınlatma Projelerinin ve Metrajının Yapılması
+PROJE TEKNİK Ş ARTNAMESİ 10/ 64
+
+4- Kavşak Sinyalizasyon Projelerinin ve Metrajının Hazırlanması
+5- İksa, istinat duvarları, küçük ve büyük sanat yapılarının proje metrajlarının
+hazırlanması.
+PROJE PAFTALARI
+BAŞ PAFTA
+Kesin projedeki baş paftaya benzer nitelikte Kavşak Projeleri baş paftası hazırlanır, sadece
+bu paftada imza anteti açılır. Diğer kavşaklar için İdarenin adını, yolun adını, kavşağın adını ve
+kilometresini, küçük ölçekli bir Türkiye haritasında projenin yerini, uygun ölçekli bir topoğrafik
+harita üzerinde proje ekseninde kavşakların yerlerini, kilometrelerini ve numaralarını, projesi
+yapılan kavşağın anlaşılabilir büyüklükte proje eksenine işlenmesini ve daire içine alınmasını,
+proje başı ve proje sonu kilometresini, kilometrajı gösteren ayrı ayrı başpaftalar yapılır. Bunlara
+imza anteti açılmaz.
+TİP ve DETAY PAFTALARI
+Baş paftadan sonra gelen paftalar tip ve detay paftalardır. Projedeki bütün kritik
+problemlerin çözümünü ve projenin özetini içerir. Ayrıca İdarenin talep edeceği bilgileri ihtiva
+eder.
+1. Kavşak kolları tipik enkesitleri: Yarmada ve dolguda 1 veya 2 şeritli kavşak kolu enkesitleri
+2. Orta refüj detayları: Normal ve deverli enkesitte orta refüj detayı.
+3. Kenar detayları (tretuvar veya banket): Yarmada ve dolguda alçak ve yüksek kenar detayı.
+(deverli-deversiz)
+4. Anayol ve taliyol enkesit, orta refüj ve kenar detayları.
+5. Yavaşlama ve hızlanma şeritleri tipik planları: Tek veya çift şeritli olarak.
+6. Kavşak kollarının anayol ve tali yollara birleşme yerlerinde alt ve üst yapıların detayları.
+7. Kanal, bordür ve hendek detayları.
+8. Dolguda bordür düşüm oluğu detayları.
+9. Yer altı drenajı boru yatak tipleri:
+10. Kontrol ve havalandırma bacaları detayları: Kapak, merdiven, yandan ve üstten su alış
+durumlarına göre baca giriş detayları.
+11. Menfez giriş ve çıkışlarında koruma tipleri.
+12. Otokorkuluk tipleri ve detayları. (Trafik Güvenliği Dairesi Başkanlığı tarafından
+onaylanacak tip ve detaylar kullanılacaktır.)
+PROJE TEKNİK Ş ARTNAMESİ 11/ 64
+
+PROJE HACİMSEL ELEMANLARI ÇİZİM VE
+HESAPLARININ YAPILMASI
+GABARİ VE ENKESİTLERİN ÇİZİLMESİ
+TANIM
+Enkesit, güzergahı n yatay hattı kesinleştikten sonra istenilen bir kilometraj noktasında
+eksene dik veya arzulanan herhangi bir doğrultuda doğrusal bir çizgi üzerinde yol gabarisini
+yerleştirmeye yeterli genişlikte; mühendislik ve teknik resim anlamında mesafe ve kotların
+alınması şeklinde tanımlanabilir.
+FONKSİYONU
+Gabari çizimleri enkesit üzerine yerleştirilen platform ile tanımlamaya çalışılan bitmiş yol
+sathının şevlerini ve gerekli mücavir alanı daha ayrıntılı ve anlaşılır bir şekilde sunmak için
+elverişli ve tamamlayıcı bir yöntemdir.
+1. Gabari ve enkesit çizimi, planlarda bitmiş üst yüzeyi ve kenar çizgileri ile de gösterilebilen
+tamamlanmış yolu oluşturulan toprak ve üstyapı tabakalarını ve söz konusu referans yüzeyine
+göre bir yüksekliği yada ve özellikle derinliği olan elemanları, gerçek boyut ve konumlarıyla
+daha büyük ölçeklerde ve daha ayrıntılı olarak sunabilen tek yöntemdir.
+2. Gabari ve enkesit çizimi, toprak hacmi (Yarma-dolgu hacimleri) sanat yapıları vb.
+büyüklüklerin hesaplanmasında kullanılan yöntemdir.
+Yukarıda tanımlanıp açıklanan kübaj ve hacim hesabı, tasarım ve uygulama unsuru olarak
+yol modelinin oluşturulmasında önemli olan daha büyük ölçekli (1/100 veya 1/200) ve daha sık
+aralıklı (en çok 10 m.) ve daha ayrıntılı GABARİ ve ENKESİTLER kesin proje hazırlanmasında
+kullanılır.
+ENKESİTLERİN ELDE EDİLMESİ
+1. Tanımı ve fonksiyonu yukarıdaki maddelerde açıklanan enkesitlerin 1/100 veya 1/200
+ölçekte, bilgisayar ortamında oluşturulmuş sayısal modellerden çıkarılması yeterlidir. Ancak
+arazide klasik yöntemle enkesit alımının gerekli olup olmadığı, idarenin istek ve yazılı
+talimatları ile belirlenecektir.
+2. Gabari ve enkesitler 10 metre aralıkta, arazinin kırık noktalarını yansıtabilmek, yol sathını
+tanımlamak, muhtelif tasarım ve yapım elemanlarını en uygun şekilde gösterebilmek için
+gereken her noktada (dere tabanı, tepe üstü gibi) hesaplanıp çizilecektir.
+GABARİ VE ENKESİTLERİN HAZIRLANIP İDAREYE SUNULMASI
+Gabari yerleş tirilmiş enkesitler bilgisayar ortamında 1/100 veya 1/200 ölçeğinde idareye
+teslim edilecek olup, aşağıdaki bilgi ve ayrıntıyı ihtiva edecektir.
+1. Enkesit alınan noktanın, kilometresi verilecektir.
+2. Enkesit alınan noktadaki yol ekseni, kavşak kolu ekseni veya benzer fonksiyona sahip itibari
+eksen çizgisi, enkesit çizimlerinde gösterilecektir.
+3. Enkesit alınan kesimde mevcut, anayol bölümleri, yan yol, kavşak kolu ve benzeri tüm yol
+platformlarının kenar, eksen noktaları ve bütün kırık noktaları eksiksiz yansıtacak miktar ve
+PROJE TEKNİK Ş ARTNAMESİ 12/ 64
+
+konumda çizilecek. Platform üzerindeki noktaların kırmızı kotları ile bu platformların dever
+ve enine meyilleri yazılacaktır.
+4. Gabari ve enkesiti verilen yol platformundan uzak yan yol veya tali yol gibi benzeri
+platformlar ile kavşak kolları tek bir enkesitte gösterilmeyecek, ayrı ayrı ele alınıp gabari ve
+enkesitleri çizilecektir.
+5. Arazi bilgileri genellikle 50 metreden az olmayan ancak bu maddede açıklana gelen amaç ve
+gösterimlere yetecek genişlikte çizilip, tabii zemin noktalarının kot ve eksene uzaklıkları
+yazılacak ve varsa nebati toprak kazısı çizgisi veya zayıf zemin alt kotlarını belirten çizgisi
+gösterilecektir.
+6. Yarma, dolgu şevleri, palye çizgileri çizilecek, bunların meyilleri, kırık noktalar ile tabii
+zemin kesim noktalarının (şev kazıklarının) kot ve mesafeleri yazılacaktır.
+7. Kırmızı kot çizgisi, alt temel altı çizgisi, dolgu veya kazı toprak satıh çizgileri, yol platformu
+banket, kaldırım ve benzeri kesimlerde ayrı ayrı çizilip gösterilecektir.
+8. Yarma ve dolguları destekleyen her türlü iksa ve istinat duvarları, platformlar arası tutucu ve
+engelleyici duvar ve bölmeler ve bunların temelleri enkesitlerde gerçek boyutları ile
+çizilecektir. Bunların konum, boyut ve yüksekliklerini tanımlayabilmek için gerekli kot ve
+mesafeler bilgi olarak verilecektir.
+9. Enkesit genişliği içerisine giren, kafa hendeği, dolgu kenarı drenaj hendekleri ve yer altı suyu
+drenajı çizimleri enkesit üzerinde gösterilecektir.
+10. Dere ve kıyı tahkimatları, gerekiyorsa koruyucu tabakalar ve benzeri dolguları ile birlikte
+gösterilecek bunların şev meyilleri, anroşman ve dolgu malzemesinin cinsi yazılacaktır.
+Tabakaların şev üstü ve şev dibi noktalarının kot ve mesafeleri verilerek konumları
+belirtilecektir.
+11. Refüj bordürü, kaldırım bordürü, kenar taşı gibi ayırıcı elemanların enkesitlerde gerçek
+boyutu ile ayrıntılı olarak gösterilmeleri mümkün değil ise boyutlarına yakın sembolik
+gösterimlerle çizilecektir.
+12. Enkesit üzerindeki bilgiler enkesit altında tablo olarak veya enkesit üzerinde gösterilecektir.
+13. Yarma, dolgu, üstyapı ve alttemel tabakaları, duvarlar, bitkisel toprak kazısı, seçme
+malzeme, zayıf zemin kazısı gibi elemanların alanları gabari ve enkesitlerin oluşturulduğu
+bilgisayar ortamındaki hesapları, ilgili kübaj ve metraj cetvellerinde gösterilecektir.
+14. Yoldaki farklı kesimlere ait genişlikler, enkesit çizimlerinde gösterilecektir.
+15. Diş kazıları en kesitte gösterilecektir.
+16. Otokorkuluk ve genişlemeler gösterilecektir.
+17. (2x3) şeritli yollarda %2.50, diğer yollarda %2.00 dever değeri kullanılacaktır. (İdarenin
+gerekli gördüğü durumlarda %2.50 kullanılabilir.)
+KÜBAJ VE BRÜKNER HESAPLARI VE ÇİZİMİ
+KÜBAJ
+Enkesit çizimlerinde açıklandığı gibi hesaplanıp çizilen gabari ve enkesitlerden varsa nebati
+toprak çizgisi yoksa siyah kot çizgisi ile duvar, anroşman ve benzeri yapıların dolgu veya tabii
+zeminle temas eden temel üzeri çizgileri esas alınarak hesaplanan yarma ve dolgu alanlarının,
+enkesitler arası uzaklıklar ve yarmadan dolguya veya tersine geçiş kaideleri uygulanarak
+hacimlerin hesaplanmasını takiben, bir enkesit aralığında elde edilen yarma hacminin kesinleşmiş
+araştırma raporunda belirlenen 1'den büyük kabarma veya 1'den küçük sıkışma katsayısı ile
+çarpılması sonucu elde edilen değer kadar artırılması ve aynı aralıkta elde edilen dolgu hacmi
+kadar azaltılması suretiyle bulunan kümülatif hacimsel değerler, yol kesiminin tümü boyunca
+yürütülmesi neticesinde elde edilen değerlere KÜBAJ denir.
+PROJE TEKNİK Ş ARTNAMESİ 13/ 64
+
+Bu işlemler yapılırken karışıklığa meydan vermemek için İdare tarafından hazırlanmış olan
+Toprak İşleri Kübaj cetvelleri kullanılacaktır.
+BRÜKNER DİYAGRAMI
+Yatayda kilometre değerlerinin, düşeyde ise kübaj cetvelindeki Brükner ordinatlarını n
+yer aldığı diyagramlara Brükner Diyagramı denilmektedir.
+Bu diyagram her bir enkesit aralı ğ ı nda, aralı k içerisinde gerekli olan (kendi kesitinde
+kullanılan) dolgu ihtiyacı düşüldükten sonra kalan kümülatif veya başka bir deyimle stoğun
+grafiğidir. Buna göre de grafiğin yükselen kesimleri kazı fazlasını, düşen kesimleri de dolgu
+ihtiyacı gösterir.
+Brükner diyagramı yatayda 1 cm 10 veya 20 metreyi, düş eyde ise 1 cm 1000 veya 2000
+m3 gösterecek şekilde ancak İdarenin kabul edeceği bir ölçekte ve aksi söylenmedikçe KGM
+normlarında rulo halinde hazırlanacaktır. (Rulo boyları ölçeğe göre 10 veya 20 km lik kesimler
+halinde hazırlanacaktır.)
+BRÜKNER VE DENGELEME HESAPLARI
+Dolgu ihtiyacı bulunan kesimlerdeki bu gereksinimlerin, kazı fazlası gösteren
+kesimlerdeki hacimlerle veya bu yapılmıyorsa dışarıdan yani malzeme ocaklarından (ariyet
+ocakları) karşılanması ve bütün bunlardan sonra elde hala bir kazı fazlası bulunuyorsa bunları da
+önceden belirlenmiş olan yerlerde depolanması için gerekli olan toprak hacmi hareketlerinin yani
+taşımaların optimize edilmesidir.
+Bu optimizasyonun yapılabilmesi için, yol boyunca gerekli dolgu ve sağlanabilen kazı
+hacimlerinden başka, kullanılabilir malzeme ocaklarının yolun ilgili kesimlerine uzaklığı belirli
+kılacak şekilde konumlarının ve kapasitesinin ve benzer şekilde elde kalabilecek kazı fazlasının
+boşaltılabileceği depo mahallerinin yer ve kapasitelerinin de bilinmesi gerekir.
+Denge çizgilerinden dolayı değişen taşımalar nedeni ile (h>5.00 m) dolgu şev değerleri
+dikkate alınarak dolgu şev değerlerinde uygunluk sağlanana kadar bu çalışmalar tekrarlanacaktır.
+Enkesitlerdeki dolgu şevleri (h>5.00 m.) Brükner Diyagramında taşınan malzemenin dolgu şevine
+uygun olmalıdır.
+Bilgisayarlarla dengelemede, denge çizgileri ile birlikte Brükner diyagramı, her türlü
+hesaplama ve optimizasyonların gösterimi için çizilen bir diyagram olup, bu diyagramın üzerinde
+paralı taşıma cetveline esas olacak bütün hesapların adım adım oluşturulan bütün ayrıntı ve
+bilgileri bulunacaktır.
+BRÜKNER DİYAGRAMI VE HESAPLARI AŞAĞIDAKİ ÖZELLİKLER VE
+BİLGİLERİ TAŞIYACAKTIR:
+Diyagram üzerinde yukarıda tanımı yapılan dengeli alan ve kesimleri, başlangıç ve bitiş
+kesimleri ve varsa denge çizgileri ile gösterilecek ve bu kesimlerin ariyet ve depo göstermeleri
+halinde bu özellikleri mutlaka belirtilerek, depo veya ariyet ocağının numarası ismi veya mahalli
+belirtilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 14/ 64
+
+Anayol enkesitleri ile gösterilmeyen kavşak kolları ve alanlarındaki kazı fazlası veya
+dolgu ihtiyacı Brükner diyagramına yansıtılacaktır.
+Brükner diyagramındaki her bir hacim elemanının hangi denge alanı veya ariyet ya da
+depo kesimine ait olduğu kolayca anlaşılabilmelidir. Denge kesimlerinin başlangıç ve bitiş
+kilometrelerinin diyagramda gösterilmesi gereklidir. Bunlara ait kazı, dolgu, faktörlü kazı, taşıma
+momenti gibi hesaplar veya sonuçlarının paftada yazılması zorunludur.
+Hesaplamalar için uygun görülüp belirlenmişlerse alt denge alanları diyagram üzerinde
+numaraları ile gösterilecek ve çizgileri çizilecektir. Alt dengelere ait başlangıç; bitiş kilometreleri,
+kazı dolgu hacimleri, taşıma momentleri, ortalama taşıma mesafesi ve benzeri hesaplar diyagram
+üzerine yazılmalıdır.
+Brüknerde depo ve ariyet miktarları belirlendikten sonra, gereksinme duyuluyor ise, düşey
+hat revize edilecektir.
+Brükner diyağramının en üst kısmına satır halinde klas ve sıkışma- kabarma yüzdeleri
+yazılacaktır. Ayrıca profilin izdüşümü çizgisel olarak, ŞK noktaları kilometreleri ve +, - eğim
+değerleri ile çizilerek gösterilecektir.
+Denge veya alt denge alanlarında, şartnamelere ait veya İdarenin kabullerine göre parasız
+taşıma kesimleri işaret edilecek ve bunlar, taşıma momenti ile Paralı Taşıma ve Hafriyat
+Cetvellerinin oluşturulmasında göz önüne alınacaktır.
+Yapılan hesaplar ve dengelemelere göre, o günün teknolojik şartları ve İdarenin kabul
+ettiği prensipler çerçevesinde denge ve/veya alt dengeler için hangi konum klas ve hacimdeki
+kazıların hangi makine grupları ile ortalama olarak hangi mesafelere taşındıklarını ve taşıma
+momentlerini tüm yol kesimi için belirlenen ana taşıma mesafesi sınıfları (10 km den küçük ve
+büyük gibi) için kazı miktarları ve ortalama taşıma mesafelerini gösteren normlara uygun bir
+Paralı Hafriyat ve Taşıma Cetveli Brükner diyagramı ve hesapları ile birlikte sunulacaktır. Seçme
+malzeme taşımaları da diyagram üzerinde belirtilecek olup, paralı taşıma cetvelinde ayrıca
+gösterilecektir.
+İDAREYE TESLİM EDİLECEK BELGELER
+- Brükner Diyagramı
+- Paralı Taşıma Cetveli
+- Kübaj Cetveli
+- Metraj Detayları Dosyası
+- Yol İşleri Sanat Yapıları Metraj Cetveli (Sayısal ortamda veya baskı)
+- Yol İşleri Metraj Cetveli (Sayısal ortamda veya baskı)
+- Enkesit çizimleri (Sayısal ortamda veya baskı)
+- Şev kazığı noktalarının kot ve koordinatları listesi ( Sayısal ortamda)
+PROJE TEKNİK Ş ARTNAMESİ 15/ 64
+
+PROJE GEOMETRİK ELEMANLARI VE RAPORUNUN
+HAZIRLANMASI
+PROJE PAFTALARI
+BAŞ VE TİP PAFTALAR
+• Projenin başında yer alan paftaya BAŞ PAFTA denir. İdarenin adını, yolun adını, küçük
+ölçekli bir Türkiye haritasında projenin yerini, proje üzerinde çalışanların adlarını uygun
+ölçekli bir topoğrafik harita üzerinde proje eksenini (proje başı, kilometraj, proje sonunu ve
+yolun net uzunluğunu ihtiva etmek üzere) içerir.
+• Baş paftadan sonra gelen paftalar, tip ve detay paftalarıdır. Projedeki bütün kritik problemlerin
+çözümünü, projenin özetini ve tüm malzeme ocaklarını, üst yapı kalınlıkları itinereri ve yol
+gabari tipini, nirengi, poligon ve AN (Ana Nivelman) noktaları ile eksen koordinat listelerini
+içerir. Ayrıca İdare'nin talep edeceği bilgileri ihtiva edecektir.
+1. Yol tip enkesitleri: Projede uygulanan enkesit tiplerinin (palyeli kesitler dahil) uygulama
+kilometreleriyle birlikte çizimi.
+2. Orta refüj detayları: Normal ve deverli enkesitte orta refüj detayı.
+3. Kenar detayları (tretuvar veya banket):
+4. Araştırma Raporuna göre üstyapı tabaka kalınlıkları değişirse gösterilecektir.
+5. Kanal, bordür ve hendek detayları.
+6. Dolguda bordür düşüm oluğu detayları.
+7. Yer altı drenaj ı boru yatak tipleri.
+8. Kontrol ve havalandırma bacaları detayları: Kapak, merdiven, yandan ve üstten su alış
+durumlarına göre baca giriş detayları.
+9. Otokorkuluk tipleri ve detayları.
+10. Park alanları ile ilgili detaylar.
+11. Dever değişim diyagramı
+12. Dayanma ve koruma yapıları tip ve detayları (iksa, istinat, tahkimat, pere,
+anroşman,...vb.)
+PROJE BİLGİ PAFTASI
+• Yol güzergahı ile ilgili kavşaklar, tüneller, büyük sanat yapıları, yerleşim yerleri, imar, mücavir
+alan, sit, milli park ve kamulaştırma sınırları, tali yol bağlantıları ve demir yolu geçişleri gibi
+unsurları içeren bir itinerer ile proje bilgi formunun yer aldığı proje bilgi paftası
+hazırlanacaktır.
+PLAN-PROFİL PAFTALARI
+Kesin Proje güzergahının yatay ve düşey hattının yukarıda açıklanan esaslar dahilinde
+Jeolojik ve Jeoteknik Etütlerin tamamlanmasıyla elde edilen veriler doğrultusunda hazırlanacak
+olan plan-profil paftaları, aşağıda sıralanan elemanları ve gösterimleri içerecektir.
+1. Bitmiş yol sathını, planda, geometrik olarak tanımlamaya yeterli ve idarenin uygun görüp
+talep edeceği ayrıntıda, eksen, refüj, bordür dibi banket, kaldırım kenarı, kavşak kolu, ada ve
+PROJE TEKNİK Ş ARTNAMESİ 16/ 64
+
+burun kenarları gibi her türlü çizgisel eleman ve bunların her birisini yine matematiksel
+anlamda tam olarak tanımlamaya yeterli koordinat değerleri (ITRF96 sisteminde), kurp
+yarıçapı, klotoid spiral sabiti, uzunluk, ofset ve benzeri aplikasyon değerleri, yolun önceki
+çalışmalarla belirlenen veya idare tarafından verilen tip ve standartları göz önünde
+bulundurularak ve geçerli yol ve trafik mühendisliği kuralları ile geometrik tasarım kılavuz
+ve şartnamelerine ve yönetmenliklerine uygun olarak hesaplanıp belirlenecek ve paftalarda
+gösterilecektir.
+2. Yol ve kavşak kolu eksen kilometrajı uygun aralıkta ve normda paftalara işlenecektir.
+3. Yol ile kaplanacak olan mevcut topoğrafik oluşumlar, yollar, dereler, evler, binalar ve benzeri
+unsurlar büyük ölçekli harita yönetmeliği esaslarına uygun semboller veya şekillerde açık
+renkte gösterileceklerdir.
+4. Projelendirilen yol ile kesilmekte olan, her türlü kanalizasyon, kablo kanalı, PTT hattı, boru
+hattı vb. iletim yapıları eski ve yeni konumları ile paftalarda yer alacaktır. Bunlar için
+uygulanmış bulunan çözümler uygun gösterimlerle paftalarda belirtilecektir.
+5. Her türlü dere derivasyonları, tali yol deplasmanları ile kıyı tahkimatları planda teknik resim
+esaslarına uygun şekillerde gösterilecektir.
+6. Kavşaklar ve yan yollar projelendirme kriterlerine tabii olup, planlarda anayolda olduğu gibi,
+tüm çizgisel elemanları ve şevleri ile birlikte sığdıkları kadar yer alacaklardır.
+7. Plan kısmına işlenen kavşaklar ve yan yollar numaralandırılacak, detay projeleri ayrı paftalar
+şeklinde yapılacaktır.
+8. Tüm tali ve yan yollar ile kavşak kollarının anayol ile kesişme, ayrılma ve katılma nokta ve
+kilometreleri uygun şekilde belirtilecektir.
+9. Proje paftalarının plan-profil bölümünde projenin ana içeriğini oluşturan esas unsurları
+gölgelemeyecek ve boğmayacak uygun bir karakterde koordinat (koordinat kareleajları ED50
+ve ITRF96 sistemini ayrı ayrı göstermeli), kot ve kilometre değerleri yazılacaktır.
+10. Paftalarda yolun bölge il isimleri kontrol kesim numaraları veya idarenin uygun göreceği
+formda antet yer alacaktır. Çizgi, şekil ve kalınlıkları ile genel sunum ve estetik hususlarında
+teknik resim kaidelerine, varsa bilinen KGM normlarına ve İdare'nin isteklerine uyulacaktır.
+11. Yerleşim yerleri, evler, binalar, yollar, dereler, ormanlık ve ağaçlık alanlar, arazi ve yol
+koridorunu tanımayı ve yorumlamayı sağlayan tüm eleman ve unsurlar, paftalarda, normlara,
+şartname ve yönetmeliklere ve büyük ölçekli harita yönetmeliği esaslarına uygun ayrıntıda ve
+uygun çizgi ve sembollerle gösterilecek gerekli yazı ve açıklamalara yer verilecektir.
+12. Tabii zemin ile bitmiş yol satıhları arasındaki ara birimler şevlerden oluşmakta olup, şevler
+kesin proje paftalarının planlarında gösterilecektir.
+13. Şevüstü ve şevdibi çizgileri ile varsa palyeler projede belirtilecek ve yol platformu ile birlikte
+şevlerin kapladığı alandaki mevcut arazi bilgileri silinmeyecek, silik olarak gösterilecektir.
+Yeni platform içinde kalan münhaniler silinmeyecektir.
+14. Yarma ve dolgularda uygulanmış olan şev eğimleri, palye genişliği, yükseklikler ile sabit
+platform genişlikleri proje paftalarında uygun büyüklükte olmalıdır.
+15. Yol kenar hendekleri, yer altı drenajları, palye hendekleri, kafa ve dolgu eteği hendekleri,
+İdarece aksi talep edilmedikçe drenaj paftalarında gösterilecek ve kesin proje paftalarında da
+yer alacaktır.
+16. Hidrolojik menfezler, alt ve üstgeçitler, viyadük köprü ve tüneller, istinat ve iksa duvarları ve
+diğer jeoteknik önlemler plan ve profil bölümlerinde yer alacaktır. Kesin projeleri ayrıca
+yapılması ile birlikte söz konusu sanat yapıları belirlenmiş uzunlukları, ayak yükseklikleri ve
+benzer boyutları, başlangıç ve bitim kilometreleri plan-profil paftalarında ifade edilecektir.
+17. Bütün paftalar baş pafta (1) olmak üzere sıra numarası alır. Paftaların sağ üst köşesine paftanın
+kendi numarası ve toplam pafta numarası yazılır.
+18. Proje paftalarında yatay hat ve detayı, düşey hat ve detayı, sanat yapılarının cins ve ebatları,
+kilometreleri (yerleri) boyları ile tüm sanat yapıları plan ve profilde gösterilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 17/ 64
+
+Nirengi, poligon noktaları ile nivelman röperleri, kavşak yerleri (kavşak yerleri bir yuvarlak
+içine alınıp numaralandırılacak ve plan ve profilde gösterilecektir. Poligon ve eksen koordinat
+değerleri (KGM normlarına uygun olarak) liste olarak pafta şeklinde hazırlanacaktır. (ITRF96
+sistemine göre verilecek ayrıca ED50 ye dönüşüm katsayısı belirtilecek) duvarlar, palyeler ve
+hendek kaplama ile standart drenajlar profilde gösterilecektir.
+19. Bütün proje paftalarının (baş pafta hariç) sağ üst köşesine küçük klişe çizilecektir (KGM
+normlarına uygun olarak). İmzalar ile tasdikler, baş paftadaki büyük klişede yer alacaktır.
+YOLUN ÇEVRESİYLE İLİŞKİSİNİN DÜZENLENMESİ BAĞLANTI YOLLARI, YAN
+YOLLAR VE KAVŞAKLAR
+• Yol, yan yol ve kavşakların yapılacağı yerler bir itinerer şeklinde hazırlanarak gerekliliği
+yönünden hazırlanacak rapor ile onay için idareye sunulacaktır.
+• Bağlantı yolları (köy yolları, tarla yolları vb.) yanyollar (bir imar yolunun kavşağa bağlantısı
+veya imar yollarından ana yola her noktadan bağlantıyı önlemek amacıyla yapılacak yollar
+vb.) ayrı eksen ve düşey hat çalışılarak ana yol ile bağlantı gözükecek şekilde anayol plan
+profil paftalarından sonra gelen sıralama ile ayrı plan profil paftası olarak hazırlanır.
+• Kavşak yapılacak yerler ile ilgili kapasite analizi yapılması veya İdarenin vereceği trafik
+değerlerine göre kavşağın tipinin belirlenmesi ve buna ait alternatiflerin sunulması.
+(Kavşaklar bölümünde detaylı anlatılacaktır.)
+• Bu kapasite ve performans, analizlerde, sözleşme ve şartnamelerde aksi belirtilmemiş ve/veya
+idarenin bu yönde bir yazılı talimatı yoksa Karayolu Tasarım El Kitabı,Karayolları Kapasitesi
+El Kitabı (HCM), AASTHO'nun geçerli en son baskısı referans alınacaktır.
+EŞİTLİK
+Sayısal arazi modeli ile yapılan projelerde yatay ve düşey hatta ortaya çıkabilecek
+eşitlikler nihai projeye işlenmeyecektir. Kilometraj yeniden verilecek, enkesit çizimleri, sanat
+yapıları ve diğer yapıların km.leri bu yeni kilometraja göre verilecektir. İdarenin talimatıyla
+zorunlu hallerde eşitlik uygulanabilir.
+Projenin onaylanmasından sonra yapılacak değişikliklerde:
+Farklı röperlerden taşınan kotlar arasındaki kot uyuşmazlığı varsa kot eşitliği yapılacaktır.
+• Varyant veya ripajlardan dolayı projeye kilometre eşitliği konacaktır.
+• Eşitlik yapılan noktada, eski işin kilometresi ileri olarak paya; yeni işin kilometresi ise geri
+olarak paydaya, bayağı kesir şeklinde yazılacaktır. Kesir çizgisinin tam hizasına KM.
+EŞİTLİĞİ yazılacaktır. İLERİ (KM)
+GERİ
+VARYANT VE RİPAJLAR
+• Herhangi bir sebeple varyant yapılması halinde, yüklenici etüt haritası üzerinde varyant
+teklifini İdare'ye sunacaktır.
+PROJE TEKNİK Ş ARTNAMESİ 18/ 64
+
+• Varyant teklifini yüklenici yapabileceği gibi, doğrudan doğruya İdare' de yapabilir.
+• Varyant; arazi işlerini de kapsayacaktır. Eğer aplikasyon ve proje beraber ihale edilmiş ise
+yüklenici; proje ayrı ihale edilmiş ise İdare arazi işlerini yapar.
+• Gerekli görülen kesimlerde yüklenicinin teklifi ve İdare'nin onayı veya İdare'nin talebi
+üzerine ripaj yapılabilir.
+• Ripaj ve varyantlar bu şartnameye uygun KGM normlarında hazırlanacaktır.
+• Ripaj enine kesit dahilinde bir iş olacağından arazi işini kapsamayacaktır. Varyant enkesit
+dışına taşan yatay hat değişikliği olarak tanımlanır.
+PROJE SONU RAPORU
+Yolun öngörülen fonksiyon ve sınıfından başlayıp Koridor Etüdü, Yatay Düşey Hat
+çalışmaları, Hidrolik Hidrolojik etüt Çalışmaları Proje çalışmalarında kullanılan verilerin elde
+edilişlerini özetleyecektir. Yolun öngörülen ulaşım fonksiyonunu karşılayabilme durumu
+anlatılacak ve Kesin Proje kapsamında yapılan iş kalemleri hakkında bilgilerle birlikte aşağıda
+belirtilen hususları kapsayacaktır.
+1. Proje güzergah itinereri: Projede yer alan bilgilerin sembollerle gösterilmesi. (köprü,
+kavşak, şehir geçişi, tünel, alt ve üst geçitler vb.)
+2. Proje bilgi formu.
+3. Giriş: Projesi yapılan güzergahın mevcut durumunun tanıtımı ve neden proje
+yapımına ihtiyaç duyulduğuna ait bilgiler.
+4. Proje kapsamında projelendirilen hizmetlerin belirtilmesi.(Kamulaştırma, Trafik,
+ÇED, Köprü, Tünel vb.)
+5. Yol proje geometrik standartları: Projede kabul edilen kriterlerin sebep ve sonuçlarını
+içine alacak şekilde farklı enkesit tipleri ve şekiller ile bilgilerin sunulması.
+6. Yol proje çalışmaları esnasında yatay ve düşey hattın belirlenmesinde zorunlu kriterler
+ile ilgili hususların belirtilmesi.
+7. Şehir geçişlerinin projelendirilmesi esnasında her şehir geçişi ayrı ayrı detaylı olarak
+anlatılması. (İmar durumu, alt ve üst geçitler, drenaj, aydınlatma, peyzaj vb.)
+8. Güzergah boyunca projelendirilen kavşakların projelendirilme esasları ile
+planlarının(A4 normunda) yer alması.
+9. Güzergah boyunca tırmanma şeridi ve yan yol bağlantıları gerekçeleri ile birlikte
+km.'leri belirtilmesi.
+10. Projede yer alan alt ve üst geçitlerin gerekçeleri ile birlikte km.'leri belirtilmesi.
+11. Projenin toprak işleri ile ilgili olarak uygulama esnasında dikkat edilmesi gerekli
+hususların sebepleri ile birlikte belirtilmesi.
+12. Proje kapsamında yapılan ve diğer üniteleri ilgilendiren hizmetlerin bağımsız başlıklar
+halinde proje safhaları özet halinde belirtilmesi. (ÇED, Kamulaştırma, Köprü, Tünel
+vb.)
+Rapor bununla beraber, projelendirmede göz önünde bulundurulan diğer kayda değer
+ve/veya belirleyici prensip ve faktörleri belirtecektir. Kapasite ve performans analizlerini
+sistematik bir şekilde verecektir.
+Söz konusu rapor, kesin projelendirme aşamasındaki faaliyetlerle ilgili bir açıklama ve
+üretilen pafta ve dökümanların bir listesi ile tamamlanacaktır.
+PROJE TEKNİK Ş ARTNAMESİ 19/ 64
+
+PROJELERİN ONAYLANMASI
+Proje, kesin proje raporu ile birlikte idareye sunulur.
+Projenin incelenmesi sonucunda, İ dare onayı na sunulan projenin onaylı Jeolojik-
+Jeoteknik Raporu, Geoteknik Raporu ve Üstyapı Raporuna uygun olarak hazırlanmadığını veya
+Proje Yapımn Teknik Şartnamesine uyulmadığını tespit ederse projeci sözkonusu raporlar uygun
+olarak projeyi revize etmekle yükümlüdür. Gerekli sürenin verilmesi koşulu ile İdarenin gerekli
+gördüğü durumlarda projeci revizyonları yapmakla yükümlüdür. İdare'nin sunulan projeleri tasdik
+etmesi ile kesin projelerin hazırlanması hizmeti tamamlanmış olur.
+PROJE BELGELERİNİN NİTELİKLERİ
+Sözleşme ve eklerinde yazılı maddeler uyarınca yapılacak tüm proje çalış malarına ilişkin
+(harita, proje, rapor, form, tablo, defter vb) yazılı ve çizili belgeler okunabilir şekilde olacak ve
+korunabilirliklerini sağlamak için nitelikleri aşağıda açıklandığı gibi olacaktır.
+a) İdarenin onayı alındıktan sonra, proje ve çizimler, ozalit kopya üretmeye dayanıklı,
+okunaklı ve kopya almayı sağlayan cinsten saydam malzeme (parlak fotoğraf kağıdı
+(200-220gr/m2) veya polyester) üzerine çini mürekkeple çizilmiş yada aynı nitelikte
+eşdeğer bir yöntemle hazırlanacaktır. Ancak idare aynı nitelikte polyester baskı
+alınmasını talep edebilir.
+b) Kullanılacak malzemenin kalite ve standardı için idarenin onayı alınacaktır.
+c) Proje belgeleri (paftalar); 594 x 841 mm (A1) normunda parlak fotoğraf kağıdı (200-
+220gr/m2) veya polyester diğer belgeler (yatay hat, düşey hat, plankote, enkesit CD'si
+vb.) aydınger üzerine çizilmiş olacaktır.
+YAZILI VE ÇİZİLİ BELGELER
+1. Tüm yazılı belgeler 297x210 mm. (A4) normunda olacaktır.
+2. Tüm yazılı ve çizili belgeler ile ihale evrakları Türkçe, İdarenin istemesi
+durumunda yabancı dil olarak hazırlanacaktır.
+İDAREYE TESLİM EDİLECEK BELGELER VE DOKÜMANLAR
+ Proje yatay hattı ve kavşaklar işli (projedeki şevli planın aynı) harita (1/1000 ölçekli)
+ Proje düşey hattı
+ Proje yatay hattının koordinat cetveli (ITRF96 sisteminde olacak ve dönüşüm
+parametreleri belirtilecektir.)
+ Plankotelerin orjinallleri
+ Enkesit çizimleri (Sayısal ortamda)
+ KGM tipleri dışında bir tip kullanıldığında bu tipin statik hesabı ve donatı planları
+ Lüzumlu derivasyon kanalının planı, profili, kesitleri, metraj ve keşif dosyası
+ Proje paftalarının ( kavşaklar dahil ) parlak fotoğraf kağıdı (200-220gr/m2) veya polyester
+çizilmiş orjinalleri (Proje çantası içinde)
+PROJE TEKNİK Ş ARTNAMESİ 20/ 64
+
+ Komple projenin 2 takım kendi boyutunda renkli ozalit kopyası (ciltli olarak veya katlanıp
+kutulanmış)
+ Küçük boy albüm (A3 boyutunda) olarak 3 takım
+ Brükner rulosu orjinali, paralı taşıma cetveli
+ Başka kurumlardan alınmış tip kesit, metraj ve çizimler
+ Kübaj cetveli
+ Metraj detayları dosyası
+ Yol işleri sanat yapıları metraj cetveli
+ Yol işleri metraj cetveli (3 adet)
+ Şev kazığı noktalarının kot ve koordinatları listesini içeren CD
+ Deplasmanlara ait plan ve profillerin verilmesi
+ Güzergahın uydu dosyası
+ Onaylı paftaların taranmış hali (Kesin proje paftaları koordinatlandırılmış geotif ve pdf
+formatında, diğer paftalar pdf formattında ve 200dpi çözünürlükte taranmalıdır.)
+ Proje sonu raporu
+Proje CD ‘si (Sayısal harita, yüzey bilgileri, proje kapsamında üretilen her türlü dokümanın
+sayısal ortamda verilmesi) (2 Ad. Genel Müd., 2 Ad. Bölge Müd.)
+Ayrıca güzergaha ait eksen dosyası shape formatında verilmelidir.
+Proje CD’ si aşağıda belirtilen formatta hazırlanmalıdır:
+A-ŞEVLİ PLAN HARİTA
+B-KESİN PROJE
+C-KAVŞAK PROJESİ
+D-DRENAJ PROJESİ
+E-TRAFİK PROJESİ
+G-METRAJ
+H-DATA DOSYALARI
+İ-PROJE SONU RAPORU
+J-SANAT YAPISI ENKESİTLERİ
+PROJE TEKNİK Ş ARTNAMESİ 21/ 64
+
+K-ENKESİTLER
+L-YOL VERİLERİ CETVELİ
+M-TİPKESİT
+N-YATAY DÜŞEY HAT
+O-KAVŞAK İTİNERERİ
+P-YATAY DÜŞEY GÜZERGAH RAPORU
+Q-HİDROLİK
+R-KÖPRÜ PLANKOTELERİ
+S-KAVŞAK TASLAKLARI
+U-JEOTEKNİK
+V-GEOTEKNİK
+W-ÜSTYAPI
+X-KÖPRÜ PROJELERİ
+Y-KMZ
+Z-KLAVUZ PLAN
+Z1-REVİZYON RİPAJ HATTI
+Z2-ÇED
+Z3-TÜNEL PROJELERİ
+PROJE TEKNİK Ş ARTNAMESİ 22/ 64
+
+DRENAJ PROJELERİNİN HAZIRLANMASI
+TANIM
+Gerçekleştirilecek yol yapısı ile tabii seyir ve akımları kesilen mecra, dere ve akarsuların
+seyir ve akımlarını uygun şekilde devam ettirmek, mücavir alanlardan veya yer altı akımı havza
+ve potansiyellerinden yola gelen su ile yol sathına isabet eden yağıştan kaynaklanan suyu
+toplamak, taşımak, kanalize ve deşarj etmek için gerekli her türlü sanat yapısı, açık ve kapalı
+kanallar, kollektörler kafa ve dolgu dibi hendekleri, düşüm olukları, şütler, derivasyon ve diğer
+elemanların tiplerinin belirlenmesi, hidrolik amaçlı olarak boyutlandırılıp konumları, yerleşimleri
+ve detayların projelendirilmesidir.
+DRENAJ PROJESİ İÇİN VERİ TABANLARI:
+• Ön proje ile birlikte yapılan; Hidrolojik ve Hidrolik etütler neticesinde bulunan debiler.
+• Yol yüzeyine isabet eden yağıştan kaynaklanan suyun yarattığı akım debisinin belirlenmesi
+ve bu suyun uygun bir şekilde toplanarak drene edilmesine yönelik çalışmalar.
+• Yer ve konumları yaklaşık olarak belirlenmiş olan hidrolojik menfezler, köprüler,
+derivasyonlar, deplasmanlar ve kanallamalar ile yüzey suyu taşıma, drenaj ve deşarj
+sistemleri.
+DRENAJ PROJELERİNİN KAPSAMI:
+Yukarıdaki paragrafta açıklanan veriler ve altlık üzerinde, söz konusu drenaj sistemi
+elemanlarının nihai konumlandırma, boyutlandırma ve ayrıntılandırılmasını kapsar. Bunun
+içinde; drenaj projeleri, diğer tüm projelendirme faaliyetleri ile tam bir uyum ve etkileşim
+içerisinde gerçekleştirilecektir.
+DRENAJ PROJELENDİRME ÇALIŞMALARINDA UYULMASI GEREKEN
+HUSUSLAR
+• Abaklar yerine mümkünse doğrudan enerji denklemleri, açık kanal akımı hız ve kapasite
+formülleri tercih edilecektir.
+• Debi hesaplarında kullanılacak yağış değerleri son yağış ölçümleri olacaktır.
+• Yağış Değerleri Devlet Meteoroloji Genel Müdürlüğünce hazırlanmış olan Yağış - Şiddet -
+Tekerrür Eğrilerinden alınacaktır.
+• Formüllerin kullanımında yapılan kabuller ile parametreler için seçilen değerler,
+projelendirme raporunda açıkça belirtilecektir.
+• Uzunca tullerde seyreden kollektör ve benzeri kanallarda basınçlı akıma müsaade
+edilmeyecektir.
+• Akım kanallarında, yol kenar hendeklerinde ve menfezlerin çıkışlarında oyulma hızlarına
+ulaşılmaması sağlanacaktır.
+• Menfez, girişlerinde müsade edilecek şişmelerin, şartnamelerin ve/veya idarenin öngördüğü
+değerler aşılmayacaktır.
+• Menfez çıkışlarında meydana gelebilecek hidrolik sıçrama ve bunların sebep olacağı yıpratma
+oyma riski iyice etüt edilecek ve gerekli önlemler tasarlanacaktır.
+• Yol sathına isabet eden yağış nedeniyle, satıhta kaldırım dibinde deşarj rögarlarının civarında
+PROJE TEKNİK Ş ARTNAMESİ 23/ 64
+
+birikecek suyun genişlik ve yüksekliği modern pratik, şartname limitlerine göre kontrol
+edilecektir.
+• Yarma ve dolgularda, yağmur suyunun şevlerden serbest akımı minimize edilecektir.
+Palyelendirme bu amaca da yönelik bir yöntem olarak değerlendirilecektir.
+• Yarma ve dolgulardaki yağmur suları, kafa hendekleri, dolgu ve yarma palye hendekleri,
+dolgu kenarı asfalt hendekleri ve dolgu dibi şev hendekleri ile boyuna yönde yeteri
+uzunluklarda taşınarak, düşüm olukları, şütler, deşarj kanalları ile menfezlere, tabii mecralara
+veya boşaltma nokta ya da yapılarına ulaştırılacaktır.
+• Havzaların tabii toplanma çizgileri boyunca taşınan yağmur ve feyezan debilerinin hidrolik
+menfezlere doğrudan ulaştırılacaktır.
+• Yüksek ve derin yarmaların olduğu kesimlerdeki mecralar, derive edilerek, en yakın deşarj
+noktasına, şütler ve düşüm oluklarıyla taşınması tercih edilecektir.
+• Palye hendekleri ve dolgularda yol satıh sularının şevlerden serbest olarak akmasını önlemek
+için, belirli aralıklarla düşüm olukları kullanılacaktır.
+• Her türlü mecra ve akarsu derivasyonu ve kanallama yapısı, teressübat, oyulma, kıyı tahribatı
+etkilerine karşı dikkatle etüt edilerek, uygun taşıma kapasitesi ve gerekli dayanım ve koruma
+özellikleri gözönünde bulundurularak, enkesit tiplerinde tasarlanacaktır.
+• Drenaj sistemi oluşturulurken akımların uygun bir şekilde izlenebilmesi, kotların, meyillerin
+diğer topoğrafik ve geometrik özelliklerin etkin ve sıhhatli bir şekilde okunup
+değerlendirilebilmesi için tasarımın ilk veya uygun safhaları şevli planlı sayısal model
+üzerinde gerçekleştirilecektir.
+DRENAJ PROJE PAFTALARI
+• Buraya kadar anlatılan esaslar dahilinde gerçekleştirilecek drenaj proje çalışmaları, drenaj
+proje paftaları halinde idareye sunulacaktır.
+• Drenaj proje paftaları, kesin proje paftaları ile aynı ölçeklerde olacaktır.
+• Proje paftaları üzerine, açıklama gelen drenaj yapı ve elemanları gerçek boyut ve
+konumlarında uygun gösterimlerle ilave edilecektir.
+• Drenaj tasarımını doğrudan ilgilendirmeyen gösterim ve unsurlar, paftalardan kaldırılacaktır.
+• Borulu drenaj sistemlerinin profil gösterimleri olacaktır.
+• Akım yönleri ile birlikte genel olarak drenaj sisteminin uygun bir şekilde sunulması ve
+izlenebilmesi için, paftaların profil bölümü ve araziyi karakterize eden eş yükselti eğrileri ve
+diğer harita bilgileri proje paftaları üzerinde olacaktır.
+• Drenaj sistemi içerisindeki yapı ve elemanların boyutları, hidrolik tasarım ve ayrıntıları ve
+söz konusu elemanın öngörülen fonksiyonu bakımından tam olarak tanımlanabilmesi için
+gerekli diğer detaylar, sunulacaktır.
+• Drenaj sisteminin içerisindeki bu elemanlar, tüm kullanılış yerlerini eksiksiz olarak
+kapsayacak, yeterli sayıda tipler halinde 1/500, 1/250, 1/100, 1/25, 1/10 veya her birisi için
+gerekli ölçülerde planları, kesitleri ve/veya tanımlarına yeterli detaylarla ayrı paftalarda
+çizilip gösterilecektir.
+• Ana paftalarda sunulmuş olan drenaj sistemine ait her bir elemanın, yukarıda değinilen
+tiplerden hangisine karşı geldiği en azından uygun bir sembol ile belrtilecek ve mümkünse,
+boyutu, kapasitesi veya diğer esas karakteristiği verilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 24/ 64
+
+RAPOR
+Hazırlanıp paftalar haline getirilen projelendirme çalış maları, aş ağı daki ana hususları
+kapsayan bir raporla tamamlanacaktır.
+• Oluşturulan drenaj sisteminin tanımı ve tasarımda göz önünde bulundurulan hususlar ve
+esaslar.
+• Oluşturulan drenaj sistemini meydana getiren hidrolik yapı ve elemanların hidrolik
+boyutlandırma ve diğer tüm hidrolik hesap ve tahkikleri.
+• Oluşturulan drenaj sistemini meydana getiren yapı ve hidrolik elemanların, konumlarını,
+boyutlarını, uygunsa kapasitelerini veya benzeri karakteristik parametrelerini gösteren bir
+Drenaj Sistemi Elemanları Listesi.
+• Projecinin raporda yer almasını uygun bulduğu diğer hususlar ve açıklamalar.
+DRENAJ PROJELERİN İDAREYE SUNULMASI
+BİRİNCİ AŞAMA
+Hazırlanmış olan drenaj projeleri ve ekleri, tetkik için İdareye sunulacak ve İdarenin
+sunulan projeleri değerlendirilmeye alması ile birinci aşama tamamlanmış olacaktır.
+Birinci aşamada sunulan projelerde, diğer projelendirme hizmet ve süreçlerdeki gelişme
+ve değişimlere paralel olarak değişiklik ve tashihat ihtiyacı doğabilir.
+Ayrıca bunların dışında, sunulan projelerde İdarenin tepit edeceği hatalar, eksiklikler,
+yöntem değişikliği ve başka nedenlerle tashihat ihtiyacı doğabilir.
+İKİNCİ AŞAMA
+Birinci aşamada sunulan drenaj projelerinde, yukarıda açıklanan nedenlerle gerekli
+değişiklik ve tashihatların tamamlanarak projelerin İdare tarafından tasdik edilmesi ile ikinci
+aşama ve Drenaj Projelerinin Hazırlanması tamamlanmış olur.
+PROJE TEKNİK Ş ARTNAMESİ 25/ 64
+
+METRAJ DOSYASININ HAZIRLANMASI
+METRAJ DOSYASININ HAZIRLANMASI
+Proje çalışmaları tammanlanmış ve Teknik Şartnamesine uygun olarak hazırlanmış bütün
+elemanların metraj özetleri ayrı ayrı hazırlanacaktır. Her İş kalemine göre hazırlanmış olan bu
+metrajlar genel metraj dosyasında yapım poz no' larına göre tek tek toplanarak genel metraj
+dosyası oluşturulacaktır.
+PLANKOTE HAZIRLANMASI VE ÇİZİLMESİ
+Akarsular üzerinde yapılacak hemzemin ve köprülü kavşaklar, demiryolu üst geçitleri ve
+heyelanlı arazilerin doğal ve yapay oluşumlarının ayrıntılı ve istenilen duyarlılıkta belirlenmesi
+için yeterli sıklıktaki nokta koordinatlarının tespiti ve belirli bir ölçekte KGM’ den alınacak tip
+plankoteye uygun olarak tanzim edilmesidir.
+Plankote Hazırlanması ve Çizilmesi İşi KGM tarafından Proje Kontrol Anahtarı
+Kitapçığında belirtilen Plankote Kontrol Anahtarı Şartlarına Uygun olmalıdır.
+Plankotenin yapılması için;
+a) YKN’ larının ülke koordinat sisteminde dengeli olarak tesis, ölçü ve hesaplarının
+yapılması
+b) YKN’ larına göre Geometrik nivelmanla kot verilmesi,
+c) YKN’ larına bağlı olarak 120-150 metre arasında kotlu detay noktalarının kayıt üniteli
+Elektronik aletle alımının yapılması,
+d) Kayıt üniteli aletle alınan detay noktalarının Bilgisayar ortamına aktarılması, hali
+hazır haritanın oluşturulması ve istenen standartlarda tanzim edilerek modellemenin
+yapılması,
+gerekmektedir. Oluşturulan arazi modelinin grafik rulo ve YKN’ larına tüm dökümanlarının
+idarenin istediği şekil ve formatta CD ve USB ile idareye verilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 26/ 64
+
+JEOLOJİK - JEOTEKNİK ETÜTLER
+Araştırma ve Geliştirme Dairesi Başkanlığı'nın teknik şartnamesinde bahsedilen şekilde
+etüdleri yapılacaktır.
+Jeolojik ve jeoteknik çalışmaları n mevcut yol dışında yapılması durumunda proje
+ekseninin arazide tanımlanabilmesi için aplikasyonunun yapılması gereklidir.
+TRAFİK GÜVENLİĞİ VE İŞARETLEME PROJELERİNİN YAPILMASI
+İlgili Teknik Şartnamesinde bahsedilen şekilde kesin projesi yapılacaktır.
+TOPRAK SATIHLARININ TASARIMI, PEYZAJ VE SULAMA PROJELERİNİN
+HAZIRLANMASI
+İlgili Teknik Şartnamelerinde bahsedilen şekilde projeleri yapılacaktır.
+SANAT YAPILARININ PROJELENDİRİLMESİ
+HİDROLİK AMAÇLI VE TARIMSAL AMAÇLI ALT VE ÜST GEÇİTLER
+İlgili teknik Şartnamelerinde bahsedilen şekilde kesin projeleri yapılacaktır.
+Yaya, hayvan ve traktör geçişleri için, hidrolik menfezler dışında köy yolları ve Platform
+genişliği 8.00 m. olan yollar için (9.00x5.00); platform genişliği 10.00 m. olan il yolları için
+(10.000 x 5.00); platform genişliği 12.00 m. olan devlet yolları için (12.000x 5.00), arazi yolları
+için (5.00x5.00); yaya ve hayvan geçişleri için (3.00x3.00) boyutlarında alt geçitler
+projelendirilecektir. Alt geçitler için yeterli düşey gabari sağlanmadığı takdirde min 8.00 m.
+genişliğinde üst geçit köprüsü öngörülecek ve uygulama projesi hazırlanacaktır.
+Alt ve üst geçitlerin Km'si ile geçirdikleri yolun adı, cinsi plan ve profil paftalarında
+gösterilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 27/ 64
+
+BÜYÜK SANAT YAPILARI
+İlgili teknik Şartnamelerinde bahsedilen şekilde kesin projeleri yapılacaktır.
+KÖPRÜ PROJE TEKNİK ŞARTNAMESİ
+KÖPRÜ PROJELERİNİN HAZIRLANMASI
+Kapsam :
+Karayolları üzerinde yer alan ve hesap açıklıkları 10.00 m.den büyük (10.00 m dahil)
+Köprü, Viyadük, Alt Geçit, Üst Geçit ve benzeri büyük sanat yapıları (bundan sonra Köprü olarak
+tanımlanacaktır) ile ilgili olarak, aşağıda belirtilen Etüt-Proje Mühendislik hizmetlerinin
+yapılması çalışmalarını kapsar.
+1.1 Öneri Projelerinin Hazırlanması ve Raporlanması
+i) Daha önceden hazırlanan ve idare tarafından uygun bulunan Köprü plankoteleri veya
+kavşak plan ve profilleri ve bunlarla ilgili olarak gerçekleştirilen sondaj (köprü
+yerinde en az iki adet olmak üzere ve tahmini ayak yerlerinde Araştırma Mühendislik
+Hizmetleri Teknik Şartnamesine uygun olarak ), jeolojik ve geoteknik ölçümler,
+gerekli ise hidrolik ve hidrolojik etütler, arazide yapılacak çalışmalar sonucunda elde
+edilecek her türlü bilgi ve dokümanlarla (fotoğraf, film vb.) birlikte değerlendirilerek,
+projelendirilecek köprü veya köprülerin açıklıkları, açıklık sayıları, üst ve
+altyapılarda kullanılacak malzeme cinsleri, uygulanacak hareketli yük sınıfı ve
+taşıyıcı sistemleri, düşey ve yatay gabarilerinin araştırılması, bu çalışmalar sonucu
+uygun bulunan seçeneklerin belirlenmesi ve belirlenen bu seçeneklerin yapım tekniği,
+bakım, işletme, maliyet, çevreye uyum, estetik ve uygulanabilirlik açılarından
+karşılaştırmalarının yapıldığı raporun hazırlanması, plan, boykesit ve enkesit pafta
+çizimlerinin yapılması faaliyetleri, bu aşamanın kapsamı içindedir.
+ii) Proje Firması tarafından hazırlanacak uygulanabilirliği olan en az 3 alternatifli öneri
+projeleri; l/l000 veya l/500 ölçekli, onaylı plankote veya onaylı kavşak planları
+üzerine işlenmiş köprü yerleşim planları, l/l00 veya l/200 ölçekte hazırlanan, açıklık
+ve verevlik ölçüleri ile ayak kilometre veya koordinatlarını gösteren plan, boykesit ve
+üstyapı tip enkesitlerini içeren standart paftaları kapsayacaktır. Ön proje raporu ise
+paragraf ( i ) deki hususlarla birlikte sonraki aşamalarda takip edilecek hesap
+yöntemleri, kullanılacak birim ve yararlanılacak şartnameleri (AASHTO ve Yol
+Köprüleri için Teknik Şartname) de açıklayacak şekilde, A4 formunda ciltlenerek
+projelerle birlikte 1 kopya halinde idareye teslim edilecektir.
+iii) İdare projecinin hazırlayıp sunduğu seçeneklere ilave olarak yeni seçenekler talep
+edebileceği gibi oluşturulan seçeneklerin sunulan alt ve üstyapılarının farklı
+PROJE TEKNİK Ş ARTNAMESİ 28/ 64
+
+kombinasyonlar halinde oluşumlarının yeniden düzenlenmesini de isteyebilir.
+İdare, gerekli incelemeleri yaptıktan sonra son şekli verilen bu öneri projelerinden bir
+tanesini avan (kesin) proje olarak hazırlanmak üzere projeciye bildirir.
+iv) Öneri projeleri onaylı sondaj raporu ve plankote ile birlikte sunulacaktır.
+v) Yukarıdaki şartlara göre hazırlanan öneri projeleri ilgili Bölge Müdürlüğü’ne
+sunulacaktır. Söz konusu öneri projeleri Bölge Müdürlüğünce değerlendirilerek,
+Genel Müdürlüğe yazılan üst yazıda hangi alternatifin uygun olduğu belirtilecektir.
+1.2 Köprü Avan (Kesin) Projesinin ve Hesabının Hazırlanması
+Öneri proje çalışması sonunda seçilen veya daha önceden hazırlanarak uygun bulunan
+öneri projeleri ile ilgili olarak projeci, köprü öneri projeleri raporunda belirtilen ve/veya İdarenin
+uygun gördüğü malzeme ve hareketli yük sınıfı, birim ve hesap yöntemlerini kullanarak,
+boyutlarda kesin proje aşamasında önemli değişiklik gerektirmeyecek hassasiyette statik,
+mukavemet, zemin, temel ve deprem hesaplarını yapar ve köprü elemanlarının boyutlarını ve
+geometrik özelliklerini belirler. Yapılan bu çalışmalar temel sistemlerinin kesin çözümünü, varsa
+keson veya kazıkların yapım metotları, tipleri, malzeme ve teçhizatlarının özelliklerini dikkate
+alarak taşıma kapasitelerinin hesaplanmasını, derinlik ve mesnetlenme kotlarının belirlenmesini,
+kenar ayakların kayma ve devrilmeye karşı tahkikini, kenar ayaklarla bağlantılı kanat duvarı veya
+kulakların yaklaşım dolgusunu tutmaya yeterli boyutlarının incelenmesini, orta ayakların
+sürüklenen malzeme ve trafik emniyetine göre irdelenmesini, üstyapı elemanlarının yolun dever,
+kurb, boyuna ve enine eğim durumları dikkate alınarak yerleştirilmesini ve mesnetlenme
+kotlarının belirlenmesini içermelidir.
+Avan (Kesin) projeler onaylı geoteknik rapor ile birlikte sunulacaktır.
+Avan (Kesin) proje çizim paftaları;
+- 1/100 veya 1/200 ölçekte, santimetre hassasiyetinde ve açılarda desimal derece
+gösterimiyle her türlü boyut, kot, açı, kilometre ve koordinatları işlenmiş, plan ve boykesitleri,
+- 1/100, 1/50 veya her biri için gerekli ölçeklerde tip enkesit, orta ve kenar ayakların enine
+ve boyuna ölçülendirilmiş detayları,
+- 1/500 veya 1/1000 ölçekte hazırlanan plankoteler üzerine, yön, dere akış istikameti ve
+kilometreleri de gösterilecek şekilde köprü genel yerleşim planlarını kapsamalıdır.
+Hazırlanan avan (kesin) proje ve hesapları 1 takım halinde idareye teslim edilecektir.
+İdare, projecinin sunduğu avan (kesin) projenin pafta çizimleri ve/veya hesaplarında gerekli
+gördüğü değişiklik ve düzeltmelerin yapılmasını isteyebilir. Projecinin idarenin istediği
+doğrultuda yapacağı çalışmalarla avan (kesin) projeye son şekli verilir ve avan (kesin) proje
+çalışması tamamlanmış olur.
+1.3 Köprü Uygulama (Detay) Projelerinin ve Hesaplarının Hazırlanması
+Köprülere ait uygulama (detay) projelerinin hazırlanması çalışması, 1.2. de tarif edilen şekilde
+oluşturulan veya daha önceden resmi veya özel kuruluşlarca hazırlanmış ve İdare tarafından
+PROJE TEKNİK Ş ARTNAMESİ 29/ 64
+
+onaylanmış avan (kesin) projenin, her türlü detay çizim paftalarının hazırlanması, statik,
+betonarme ve deprem hesaplarının yapılması faaliyetlerini kapsar.
+Köprülerin avan (kesin) projesinin hazırlanması aşamasında gerçekleştirilen çalışmalara ilave
+olarak, yaya ve taşıt korkulukları, genleşme derzleri, mesnet elemanları ve benzer işlere ait her
+türlü detay ve boyutları belirlemek ve bütün köprü elemanlarının plan, kesit, teçhizat ve/veya
+donatı paftalarının 1/500, 1/250, 1/200, 1/100, 1/50 1/25, 1/10 veya her biri için tanımlanmalarına
+yeterli ölçeklerde ve standartlara uygun olarak hazırlanması, bu kapsam dahilinde
+gerçekleştirilecek işlerdendir.
+Hazırlanan bu projelerle birlikte sunulacak olan uygulama (detay) proje hesaplarının Amerikan
+Köprü Şartnamesi’nin (AASHTO) ve Yol Köprüleri İçin Teknik Şartname hükümlerine göre
+yapılması esastır. Ancak uygulamada ülke şartlarına göre değişiklik gösteren hareketli yük
+sınıfının seçimi ve deprem ivme katsayısının tespiti ve benzeri hususlarda İdarenin belirleyeceği
+şartnameler veya talimatlarına uyulacaktır.
+Başka yerli veya yabancı şartnamelerin kullanılması ancak İdarenin uygun görmesi durumunda
+mümkün olacaktır.
+Hesaplarda kullanılan metot ve formüller genellikle uygulanmakta olanların dışında ise nereden
+alındıkları açıkça belirtilecek, bilgisayar programları kullanılması halinde kullanılan programlara
+ait sistemin modellenmesi, sayısal girdi ve çıktıları ile ilgili açıklamalar yapılacak, kullanılan
+programlara ait sayısal girdi ve çıktı dataları idareye teslim edilecektir.
+Proje firması, proje hesap ve çizimlerini, sayısal girdi ve çıktılarını taşınabilir ve saklanabilir
+dijital ortamda idareye teslim edecektir.
+İdare gerekli gördüğü takdirde, firma tarafından hazırlanmış olan köprü projeleri, bedeli Birim
+Fiyat Tariflerinde belirtildiği gibi İdare tarafından ödenmek suretiyle, yurtiçi veya yurtdışı
+İdarenin uygun gördüğü müşavirlik firmalarına kontrol ettirecektir.
+İdare, sunulan bu proje ve hesaplarla ilgili incelemelerini tamamladıktan sonra gerekli gördüğü
+düzeltme ve değişiklikleri projeciye bildirecektir. Projeci, İdarenin istediği doğrultuda uygulama
+(detay) proje ve hesaplarına son şeklini vererek, hesap ve proje orijinalleri ile 1 takım hesap
+fotokopisi ve 1 takım proje ozalitini onaylanmak üzere İdareye sunacaktır. Daha sonra,
+onaylanmış orijinal projelerden 8 takım ozalit proje paftası çoğaltılarak İdareye teslim edilecektir.
+1.4 Köprü Metrajlarının Hazırlanması
+Köprülerin inşa edilerek kullanıma hazır hale getirilebilmesi için gerekli her türlü iş kaleminin,
+uygulama (detay) projeye uygun olarak metrajları hazırlanarak İdareye sunulacaktır.
+1.5 Köprü Projelerinin Revizyonu
+Yüklenici proje firmasının taahhüdünde bulunan iş kalemlerinden kaynaklanan köprü
+projelerinde oluşacak hatalar, işin kesin kabulü yapılmış olsa bile BEDELSİZ olarak yüklenici
+proje firması tarafından revize edilecektir. Proje revizyonları idarenin verdiği süre içerisinde
+idareye teslim edilecektir.
+PROJE TEKNİK Ş ARTNAMESİ 30/ 64
+
+KÜÇÜK SANAT YAPILARI (HİDROLİK MENFEZ VE ALTGEÇİT) TEKNİK
+ŞARTNAMESİ
+1.1 Kapsam:
+Karayolları üzerinde yer alan ve hesap açıklıkları 10 m’den küçük sanat yapıları ile ilgili olarak,
+aşağıda belirtilen Etüt-Proje Mühendislik hizmetlerinin yapılması çalışmasını kapsar.
+1.2. Küçük Sanat Yapıları Uygulama (Detay) Projelerinin Ve Hesaplarının Hazırlanması
+Küçük Sanat Yapılarına ait uygulama (detay) projelerin hazırlanması çalışması, her türlü detay
+çizim paftalarının hazırlanması ve statik, betonarme ve deprem hesaplarının yapılması
+faaliyetlerini kapsar.
+Küçük Sanat Yapıları elemanlarının plan, kesit, teçhizat ve/veya donatı paftalarının 1/500, 1/250,
+1/200, 1/100, 1/50 1/25, 1/10 veya her birisi için tanımlanmalarına yeterli ölçeklerde ve
+standartlara uygun olarak hazırlanması, bu kapsam dâhilinde gerçekleştirilecek işlerdendir.
+Hazırlanan bu projelerle birlikte sunulacak olan kesin proje hesaplarının Amerikan Köprü
+Şartnamesinin (AASHTO) hükümlerine göre yapılması esastır. Ancak uygulamada ülke şartlarına
+göre değişiklik gösteren hareketli yük sınıfının seçimi ve deprem ivme katsayısının tespiti ve
+benzeri hususlarda İdarenin belirleyeceği şartnameler veya talimatlara uyulacaktır.
+Başka yerli veya yabancı şartnamelerin kullanılması ancak İdarenin uygun görmesi durumunda
+mümkün olacaktır.
+Hesaplarda kullanılan metot ve formüller genellikle uygulanmakta olanların dışında ise nereden
+alındıkları açıkça belirtilecek, bilgisayar programları kullanılması halinde, sistemin
+modellenmesi, girdi ve çıktılar ile ilgili açıklamalar yapılacaktır.
+İdare, sunulan bu proje ve hesaplarla ilgili incelemelerini tamamladıktan sonra gerekli gördüğü
+düzeltme ve değişiklikleri projeciye bildirecektir. Projeci İdarenin istediği doğrultuda kesin proje
+ve hesaplarına son şeklini vererek, 1 takım hesap ve proje orijinallerini onaylanmak üzere İdareye
+sunacaktır.
+Proje firması, proje hesap ve çizimleri taşınabilir ve saklanabilir dijital ortamda İdareye teslim
+edecektir.
+1.3 Küçük Sanat Yapıları Uygulama (Detay) Proje Metrajlarının Hazırlanması
+Küçük Sanat Yapılarının inşa edilerek kullanıma hazır hale getirilmesi için gerekli her türlü iş
+kaleminin, KGM pozları ile Uygulama (Detay) Proje metrajlarının hazırlanması birim fiyat
+tarifindeki esaslarla aynı kapsamda hazırlanıp sunulması bu aşamanın konusudur.
+PROJE TEKNİK Ş ARTNAMESİ 31/ 64
+
+İKSA VE İSTİNAT DUVARI PROJELERİ TEKNİK ŞARTNAMESİ
+KÜÇÜK SANAT YAPILARI (HİDROLİK MENFEZ VE ALTGEÇİT) TEKNİK
+ŞARTNAMESİ
+Kapsam:
+Bu birim fiyat, Karayolları üzerinde yer alan dolgu ve yarmalarda zemin yükü, sürşarj, kayma ve
+heyelan itkisi taşıyıcı ve/veya dar alanlarda veya dik yamaçlarda yapılan sınırlayıcı ve/veya dere
+yataklarında veya deniz kenarında akım veya dalga etkilerine koruma sağlayan taş, kargir, beton,
+betonarme, kazıklı ve benzeri duvarların, yerleşimleri, plan ve boykesitleri, temel ve gövde
+yapılarının projelendirilmesi, her türlü statik-betonarme, zemin mekaniği ve kaya mekaniği ve
+geoteknik hesaplarının yapılması, kalıp ve donatı planlarının hazırlanması ve gerekli ayrıntıların
+çizilip projelendirilmesi faaliyetlerini kapsar.
+İksa ve İstinat Duvarı Yapıları Kesin Projelerinin ve Hesaplarının Hazırlanması
+İksa ve İstinat Duvarı Yapılarına ait kesin projelerin hazırlanması çalışması, her türlü detay
+çizim paftalarının hazırlanması ve statik, betonarme ve deprem hesaplarının yapılması
+faaliyetlerini kapsar.
+İksa ve İstinat Duvarı Yapıları projelendirilirken 12,10 m uzunlukta anolar halinde zorunluluk
+halinde ise 6,10 m uzunlukta anolar halinde projelendirilecektir. Ayrıca duvar yüksekliklerine
+göre 1’ er m. Yükseklik farkına göre duvarlar tipleştirilecektir. Hesaplar ve çizimler her duvar tipi
+için ayrı ayrı yapılacaktır.
+İksa ve İstinat Yapıları elemanlarının plan, kesit, teçhizat ve/veya donatı paftalarının 1/500, 1/250,
+1/200, 1/100, 1/50, 1/25, 1/10 veya her birisi için tanımlanmalarına yeterli ölçeklerde ve
+standartlara uygun olarak hazırlanması, bu kapsam dahilinde gerçekleştirilecek işlerdendir.
+Hazırlanan bu projelerle birlikte sunulacak olan kesin proje hesaplarının Amerikan köprü
+Şartnamesinin (AASHTO) hükümlerine göre yapılması esastır. Ancak uygulamada ülke şartlarına
+göre değişiklik gösteren hareketli yük sınıfının seçimi ve deprem ivme katsayısının tespiti ve
+benzeri hususlarda idarenin belirleyeceği şartnameler veya talimatlara uyulacaktır.
+Başka yerli ve yabancı şartnamelerin kullanılması ancak İdarenin uygun görmesi durumunda
+mümkün olacaktır.
+Hesaplarda kullanılan metot ve formüller genellikte uygulanmakta olanların dışında ise nereden
+alındıkları açıkça belirtilecek, bilgisayar programları kullanılması halinde, sistemin
+modellenmesi, girdi ve çıktılar ile ilgili açıklamalar yapılacaktır.
+Proje firması proje hesap ve çizimleri taşınabilir ve saklanabilir dijital ortamda idareye teslim
+edecektir.
+İdare, sunulan bu proje ve hesaplarla ilgili incelemelerini tamamladıktan sonra gerekli gördüğü
+PROJE TEKNİK Ş ARTNAMESİ 32/ 64
+
+düzeltme ve değişillikleri projeciye bildirecektir. Projeci İdarenin istediği doğrultuda kesin proje
+ve hesaplarına son şeklini vererek, 1 takım hesap ve proje orijinallerini onaylanmak üzere İdareye
+sunacaktır.
+İksa ve İstinat Yapıları Kesin Proje Metrajlarının Hazırlanması
+İksa ve İstinat Yapılarının inşa edilerek kullanıma hazır hale getirilmesi için gerekli her türlü iş
+kaleminin, KGM pozları ile Kesin Proje Metrajlarının hazırlanması birim fiyat tarifindeki
+esaslarla aynı kapsamda hazırlanıp sunulması bu aşamanın konusudur.
+KAVŞAKLARDA TRAFİK AKIM SAYIMLARININ YAPILMASI İŞİNE AİT
+ÖZEL TEKNİK ŞARTNAME
+1.1 KAVŞAKLARDA TRAFİK AKIM SAYIMININ YAPILMASI
+1.1.1. Çalışma alanındaki yol kesiminde yapılacak etütler, İdarece önceden belirlenen nokta
+ve noktalarda idarenin belirleyeceği sürelerde her iki yönden geçen taşıtlar 5 sınıfta
+(otomobil, orta yüklü ticari taşıt, otobüs, kamyon, kamyon + römork-çekici + yarı
+römork) sayılacak şekilde yapılacaktır.
+1.1.2. Motosikletler, bisikletler, tarım traktörleri, tarım makineleri ve iş makineleri sayımda
+dikkate alınmayacaktır. Trafik güvenliği vb. konularla ilgili olarak ayrıca idare
+tarafından istendiği taktirde, tarım traktörleri, tarım makineleri ve iş makineleri sayım
+yapılırken dikkate alınacaktır. Bu iş için ayrıca bedel ödenmeyecektir.
+1.1.3. Otomobil grubunda sayılacak taşıtlar; otomobil, minibüs, pikap, kamyonet, jip, toplam
+yüklü ağırlığı 3,5 tonu geçmeyen taşıtlar ve yolcu kapasitesi 8-14 kişi olan taşıtlardır.
+1.1.4. Orta Yüklü Ticari Taşıt Yolcu Taşıma Kapasitesi yaklaşık 14-25 kişi olan taşıtlar ve
+toplam yüklü ağırlığı 3,5 ton ile 10 ton arasında olan kamyonlardır.
+1.1.5. Bir kavşakta yapılan trafik akımı sayımının sonuçlarının idare tarafından doğru
+olmadığı, eksik veya fazla yapıldığı kanaatine varılırsa söz konusu sayım yüklenici
+firma tarafından bila bedel tekrarlanacaktır.
+PROJE TEKNİK Ş ARTNAMESİ 33/ 64
+
+TÜNELLER
+İlgili teknik Şartnamelerinde bahsedilen şekilde kesin projeleri yapılacaktır.
+İKSA VE İSTİNAT DUVARI PROJELERİNİN HAZIRLANMASI
+İlgili teknik Şartnamelerinde bahsedilen şekilde kesin projeleri yapılacaktır.
+DENİZ VE AKARSU KIYI VE YATAKLARINDAKİ TAHKİMAT VE
+KORUMALARIN PROJELENDİRİLMESİ
+İlgili Daire Başkanlıklarının (Etüt Proje ve Çevre, Sanat Yapıları, Araştırma ve
+Geliştirme) görüş ve talimatları doğrultusunda kesin projeleri yapılacaktır.
+ÇED RAPORU
+Ayrıca ÇED/ÇED Ön Araştırma Raporlarında taahhüt edilen önlemlerin projelendirilmesi için
+“ÇED/ÇED Ön Araştırma Uygulama Projesi” hazırlanacaktır.
+PROJE TEKNİK ŞARTNAMESİ 34/ 64
+
+ÇOĞALTMA YAPILACAK PROJE PAFTALARI
+A1 PROJE OZALİTİ A3 PROJE OZALİTİ
+Gen. Gen.
+Toplam Bölge Toplam Bölge
+Müd. Müd.
+Renkli :1 Renkli :1
+Yol Projesi 3 takım - 4 takım Renkli :1
+Orjinalleri S/B :2 S/B :2
+Genel Müd. 'e Renkli :1 Renkli :1
+Kavşak Projesi 3 takım - 4 takım Renkli :1
+S/B :2 S/B :2
+Orjinalleri
+Drenaj Projesi 1 takım - S/B :1 1 takım - Renkli :1
+Bölgeye
+Proje CD' si 2 adet 2 adet
+Not: Bölgesine gidecek çoğaltmalar ve Genel Müdürlükten alınacak dokümanlar
+birleştirilerek proje firmasınca kargoya verilecektir.
+PROJE ONAYINDAN SONRA TESLİM EDİLEN PROJE CD İÇERİĞİ
+- Sayısal Arazi Modeli
+- Proje Sürekli Plan-Profil (Kırılmış ve Kırılmamış ayrı ayrı hazırlanmalıdır)
+- Yol, Kavşak, drenaj, Trafik v.s. Proje Paftaları (dgn,dwg, ncz)
+- Proje Yapımında Kullanılan Tüm Program Dosyaları (alg, ktb, v.s.)
+- Taranmış ve koordinatlandırılmış (200 dpi çözünürlükte) Yol, Kavşak, Drenaj, Trafik v.s.
+Proje Paftaları (pdf)
+- Brükner Diyagramı (Kırılmamış)
+- Paralı Taşıma Cetveli
+Metraj Dosyası
+Metrajlar Metraj Cetveli
+- Metraj Özeti
+Proje Sonu Raporu
+Projeye ait Raporlar Kübaj Dosyası
+- Şev Kazıkları Kot Koordinat Listesi
+- Enkesitler
+- Sanat Yapısı Enkesitleri
+- Büyük Sanat Yapılarına ait Proje Dökümanları
+- Proje Güzergahına Ait Uydu Görüntüsü Dosyası (kmz veya kml)
+
+PROJE TEKNİK ŞARTNAMESİ 36 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 37 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 38 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 39 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 40 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 41 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 42 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 43 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 44 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 45 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 46 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 47 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 48 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 49 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 50 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 51 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 52 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 53 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 54 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 55 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 56 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 57 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 58 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 59 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 60 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 61 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 62 / 64
+
+PROJE TEKNİK ŞARTNAMESİ 63 / 64
+
+Karayolları Kesin ve Ön Projeleri Mühendislik Hizmetleri Teknik Şartnamesi Etüt, Proje ve
+Çevre Dairesi Başkanlığı koordinatörlüğünde hazırlanmıştır. Karayolu Teknik Şartnamesi ile
+ilgili soru, görüş ve önerileriniz için;
+0312 449 91 02- 0312 449 91 20
+PROJE TEKNİK ŞARTNAMESİ 64 / 64
+
+KARAYOLLARI GENEL MÜDÜRLÜĞÜ
+ANKARA-2019

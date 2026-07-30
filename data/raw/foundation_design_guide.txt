@@ -1,0 +1,88 @@
+FOUNDATION DESIGN GUIDELINES - TURKISH BUILDING CODE
+
+SECTION 1: FOUNDATION REQUIREMENTS
+
+General Requirements:
+- All structures must be founded on competent soil or rock
+- Minimum foundation depth is 1.0 meter, but generally 1.5-3.0 meters recommended
+- Foundation depth must be below frost line (varies by region, typically 0.8-1.2m in Turkey)
+- Bearing capacity must be verified through site investigation
+
+SECTION 2: BEARING CAPACITY CRITERIA
+
+Allowable Bearing Pressures (typical values):
+- Dense sand and gravel: 300-500 kPa
+- Medium dense sand: 150-300 kPa
+- Loose sand: 75-150 kPa
+- Stiff clay: 150-300 kPa
+- Medium clay: 100-150 kPa
+- Soft clay: 50-100 kPa
+- Rock (sound): 500-2500 kPa
+
+For buildings, apply safety factor of 3.0 minimum.
+
+SECTION 3: SETTLEMENT CALCULATIONS
+
+Immediate Settlement:
+- Sand/gravel: typically 0-1 cm
+- Stiff clay: 0-2 cm
+- Soft clay: 2-8 cm
+
+Consolidation Settlement:
+Calculate using: S = (Cc * H / (1 + e0)) * log10((p0 + Δp) / p0)
+Where:
+- Cc = compression index
+- H = layer thickness
+- e0 = initial void ratio
+- p0 = initial effective stress
+- Δp = stress increase from loading
+
+Total settlement should not exceed 5 cm for most structures.
+Differential settlement: not exceed 1/500 of span length.
+
+SECTION 4: FROST HEAVE PROTECTION
+
+Regions and Frost Depths:
+- Central Anatolia: 0.8-1.0m
+- Marmara Region: 0.6-0.8m
+- Coastal regions: 0.4-0.6m
+- Mediterranean: 0.2-0.4m
+
+Mitigation measures:
+- Place foundation below frost line
+- Use gravel below foundation to allow drainage
+- Avoid fine-grained soils near foundation
+
+SECTION 5: FOUNDATION TYPES
+
+Strip Footings:
+- For linear loads (walls)
+- Economical for ordinary buildings
+- Width typically 0.8-2.0 meters
+- Depth 1.5-3.0 meters
+
+Pad Footings:
+- For isolated column loads
+- Size determined by bearing capacity and column loads
+- Square pads preferred for uniform settlement
+
+Raft Foundations:
+- For poor soil conditions
+- When isolated footings would be too large
+- Connects all columns
+
+Piles:
+- For very soft soils or deep water tables
+- End-bearing or friction piles
+- Depth determined by soil profile
+
+SECTION 6: GEOTECHNICAL INVESTIGATION REQUIREMENTS
+
+For buildings up to 5 stories: minimum 1-2 boreholes
+For buildings 5-20 stories: minimum 2-4 boreholes
+For special structures: detailed investigation with multiple boreholes
+
+Minimum borehole depth:
+- 10-15 meters for buildings
+- Must penetrate competent bearing layer
+- Must assess groundwater conditions

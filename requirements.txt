@@ -1,0 +1,15 @@
+# Modernized for Python 3.14 (loosened pins so pip resolves 3.14-compatible wheels)
+
+# LLM runtime: Microsoft Foundry Local (on-device, offline). Requires the
+# Foundry Local app installed separately: `winget install Microsoft.FoundryLocal`
+foundry-local-sdk>=1.2.0
+openai>=2.24.0
+
+# Embeddings (local, CPU)
+sentence-transformers>=3.0.0
+torch>=2.6.0
+numpy>=2.1.0
+python-dotenv>=1.0.1
+requests>=2.32.0
+pandas>=2.2.0
+scikit-learn>=1.5.0

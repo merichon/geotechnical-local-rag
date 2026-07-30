@@ -1,0 +1,47 @@
+BORING LOG - SITE A
+Project: Foundation Design Study
+Location: Istanbul, Turkey
+Date: 2024-06-15
+Boring ID: BH-01
+Depth: 25 meters
+
+STRATUM DESCRIPTION:
+
+0-1.5m: Fill material, brown sandy soil, loose, with gravel
+1.5-4.0m: Sandy loam, yellowish brown, medium dense, low plasticity
+4.0-8.0m: Clay, gray-brown, medium stiff, high plasticity (CL)
+8.0-12.0m: Sand, fine to medium, gray, dense
+12.0-15.0m: Clay with sand lenses, olive-gray, stiff
+15.0-20.0m: Sand and gravel, very dense
+20.0-25.0m: Bedrock, weathered limestone
+
+GROUNDWATER:
+Water table encountered at 7.8 meters below ground surface
+Static water level stable during boring operation
+
+STANDARD PENETRATION TEST (SPT):
+Depth (m) | Blows/30cm | N-value
+1.0       | 4          | 4
+3.0       | 8          | 8
+5.0       | 12         | 12
+7.0       | 15         | 15
+10.0      | 18         | 18
+15.0      | 25         | 25
+20.0      | 35         | 35
+
+SOIL CLASSIFICATION:
+- Upper strata (0-4m): Poorly consolidated, loose to medium dense
+- Middle strata (4-12m): Medium stiff to stiff cohesive soils
+- Lower strata (12-25m): Dense to very dense granular materials
+
+BEARING CAPACITY ESTIMATES (for continuous footings):
+- Shallow foundation (1.5m depth): 200 kPa
+- Medium depth (2.5m depth): 300 kPa
+- Deep foundation recommended for structures with high loads
+
+RECOMMENDATIONS FOR DESIGN:
+1. Avoid fill material and upper sandy layer for foundation
+2. Minimum foundation depth: 2.5 meters below grade
+3. Consider settlement due to clay stratum (4-12m)
+4. Provide perimeter drainage due to groundwater
+5. Consolidation settlement estimated at 5-8cm for typical loads
